@@ -1,0 +1,1711 @@
+;; Pathway Tools version 21.5
+ID	32
+NAME	
+NEXT	33
+TIMESTAMP	3718499702
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN OTA "2 3-phospho-D-glycerate + 2 H<SUP>+</SUP>  &larr;  D-ribulose-1,5-bisphosphate + CO<SUB>2</SUB> + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12383 OTA "2 a 1,2-diacyl-<i>sn</i>-glycerol  &harr;  a triacyl-<i>sn</i>-glycerol + a 2-acylglycerol" NIL)
+MEMBER	(PSII-RXN OTA "2 a plastoquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB> + oxygen<SUB>[in]</SUB>  &larr;  h&nu; + 2 a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(1.18.1.2-RXN OTA "2 a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADP<sup>+</sup><SUB>[in]</SUB> + H<SUP>+</SUP><SUB>[in]</SUB>  &harr;  2 an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADPH<SUB>[in]</SUB>" NIL)
+MEMBER	(PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN OTA "2 an oxidized plastocyanin<SUB>[in]</SUB> + a plastoquinol<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>  &rarr;  2 a reduced plastocyanin<SUB>[in]</SUB> + a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(RXN-15513 OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(3PGAREARR-RXN OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(2PGADEHYDRAT-RXN OTA "2-phospho-D-glycerate  &harr;  phospho<i>enol</i>pyruvate + H<sub>2</sub>O" NIL)
+MEMBER	(PHOSGLYPHOS-RXN OTA "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(1.1.1.8-RXN OTA "<i>sn</i>-glycerol 3-phosphate + NAD<sup>+</sup>  &larr;  glycerone phosphate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-15745 OTA "<i>sn</i>-glycerol 3-phosphate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  glycerone phosphate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(PHOSPHATIDATE-PHOSPHATASE-RXN OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<sub>2</sub>O  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol + phosphate" NIL)
+MEMBER	(RXN-1381 OTA "a long-chain acyl-CoA + <i>sn</i>-glycerol 3-phosphate  &rarr;  a 1-acyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1623 OTA "a long-chain acyl-CoA + a 1-acyl-<i>sn</i>-glycerol 3-phosphate  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1641 OTA "a phosphatidylcholine + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(RXN0-1132 OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine + NAD<sup>+</sup>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-1133 OTA "acetyl-CoA + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine  &larr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + coenzyme A" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN OTA "an acyl-CoA + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + coenzyme A" NIL)
+MEMBER	(RXN-15479 OTA "an oxidized plastocyanin<SUB>[in]</SUB> + a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>  &larr;  h&nu; + a reduced plastocyanin<SUB>[in]</SUB> + an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>" NIL)
+MEMBER	(6PFRUCTPHOS-RXN OTA "ATP + &beta;-D-fructofuranose 6-phosphate  &rarr;  ADP + fructose 1,6-bisphosphate" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12959 OTA "CTP + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  CDP + a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(2TRANSKETO-RXN OTA "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(PGLUCISOM-RXN OTA "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN OTA "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN OTA "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH" NIL)
+MEMBER	(1.2.1.13-RXN OTA "D-glyceraldehyde 3-phosphate + NADP<sup>+</sup> + phosphate  &larr;  3-phospho-D-glyceroyl-phosphate + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(RIB5PISOM-RXN OTA "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN OTA "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(PHOSPHORIBULOKINASE-RXN OTA "D-ribulose 5-phosphate + ATP  &rarr;  D-ribulose-1,5-bisphosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(SEDOHEPTULOSE-BISPHOSPHATASE-RXN OTA "D-sedoheptulose-1,7-bisphosphate + H<sub>2</sub>O  &rarr;  D-sedoheptulose 7-phosphate + phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN OTA "fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(F16BDEPHOS-RXN OTA "fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(SEDOBISALDOL-RXN OTA "glycerone phosphate + D-erythrose 4-phosphate  &rarr;  D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(RXN0-1134 OTA "pyruvate + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(PEPDEPHOS-RXN OTA "pyruvate + ATP  &larr;  phospho<i>enol</i>pyruvate + ADP" NIL)
+MEMBER	(PEPSYNTH-RXN OTA "pyruvate + ATP + H<sub>2</sub>O  &rarr;  phospho<i>enol</i>pyruvate + AMP + phosphate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+//
+ID	10
+NAME	
+TIMESTAMP	3711734802
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+SORT-KEY	:MATCHES
+SORT-DESCENDING	T
+COLUMN-KEY	GIBBS-0
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(RXN0-1132 OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine + NAD<sup>+</sup>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-1133 OTA "acetyl-CoA + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine  &larr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + coenzyme A" NIL)
+MEMBER	(RXN0-1134 OTA "pyruvate + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(PSII-RXN OTA "2 a plastoquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB> + oxygen<SUB>[in]</SUB>  &larr;  h&nu; + 2 a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(1.18.1.2-RXN OTA "2 a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADP<sup>+</sup><SUB>[in]</SUB> + H<SUP>+</SUP><SUB>[in]</SUB>  &harr;  2 an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADPH<SUB>[in]</SUB>" NIL)
+MEMBER	(PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN OTA "2 an oxidized plastocyanin<SUB>[in]</SUB> + a plastoquinol<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>  &rarr;  2 a reduced plastocyanin<SUB>[in]</SUB> + a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(RXN-15479 OTA "an oxidized plastocyanin<SUB>[in]</SUB> + a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>  &larr;  h&nu; + a reduced plastocyanin<SUB>[in]</SUB> + an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(3PGAREARR-RXN OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(2PGADEHYDRAT-RXN OTA "2-phospho-D-glycerate  &harr;  phospho<i>enol</i>pyruvate + H<sub>2</sub>O" NIL)
+MEMBER	(PEPDEPHOS-RXN OTA "pyruvate + ATP  &larr;  phospho<i>enol</i>pyruvate + ADP" NIL)
+MEMBER	(RXN-15513 OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(6PFRUCTPHOS-RXN OTA "ATP + &beta;-D-fructofuranose 6-phosphate  &rarr;  ADP + fructose 1,6-bisphosphate" NIL)
+MEMBER	(PGLUCISOM-RXN OTA "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN OTA "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH" NIL)
+MEMBER	(PEPSYNTH-RXN OTA "pyruvate + ATP + H<sub>2</sub>O  &rarr;  phospho<i>enol</i>pyruvate + AMP + phosphate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(1.1.1.8-RXN OTA "<i>sn</i>-glycerol 3-phosphate + NAD<sup>+</sup>  &larr;  glycerone phosphate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-15745 OTA "<i>sn</i>-glycerol 3-phosphate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  glycerone phosphate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(RXN-12383 OTA "2 a 1,2-diacyl-<i>sn</i>-glycerol  &harr;  a triacyl-<i>sn</i>-glycerol + a 2-acylglycerol" NIL)
+MEMBER	(PHOSPHATIDATE-PHOSPHATASE-RXN OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<sub>2</sub>O  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol + phosphate" NIL)
+MEMBER	(RXN-1381 OTA "a long-chain acyl-CoA + <i>sn</i>-glycerol 3-phosphate  &rarr;  a 1-acyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1623 OTA "a long-chain acyl-CoA + a 1-acyl-<i>sn</i>-glycerol 3-phosphate  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1641 OTA "a phosphatidylcholine + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN OTA "an acyl-CoA + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + coenzyme A" NIL)
+MEMBER	(RXN-12959 OTA "CTP + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  CDP + a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN OTA "2 3-phospho-D-glycerate + 2 H<SUP>+</SUP>  &larr;  D-ribulose-1,5-bisphosphate + CO<SUB>2</SUB> + H<sub>2</sub>O" NIL)
+MEMBER	(PHOSPHORIBULOKINASE-RXN OTA "D-ribulose 5-phosphate + ATP  &rarr;  D-ribulose-1,5-bisphosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(2TRANSKETO-RXN OTA "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RIB5PISOM-RXN OTA "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN OTA "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(PHOSGLYPHOS-RXN OTA "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN OTA "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN OTA "fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(F16BDEPHOS-RXN OTA "fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(1.2.1.13-RXN OTA "D-glyceraldehyde 3-phosphate + NADP<sup>+</sup> + phosphate  &larr;  3-phospho-D-glyceroyl-phosphate + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(SEDOHEPTULOSE-BISPHOSPHATASE-RXN OTA "D-sedoheptulose-1,7-bisphosphate + H<sub>2</sub>O  &rarr;  D-sedoheptulose 7-phosphate + phosphate" NIL)
+MEMBER	(SEDOBISALDOL-RXN OTA "glycerone phosphate + D-erythrose 4-phosphate  &rarr;  D-sedoheptulose-1,7-bisphosphate" NIL)
+//
+ID	98
+NAME	
+NEXT	101
+TIMESTAMP	3734811365
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY1FV1-3 OTA_JGI "PPP_Gly_TCA" NIL)
+MEMBER	(GLYCOLYSIS-TCA-GLYOX-BYPASS META "superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass" NIL)
+//
+ID	26
+NAME	
+NEXT	27
+TIMESTAMP	3718494604
+DESCRIPTION	
+PROTECT	NIL
+SORT-DESCENDING	T
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+//
+ID	53
+NAME	
+NEXT	54
+TIMESTAMP	3725995340
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(|GO:0005634| OTA_JGI "GO:0005634 - nucleus" NIL)
+MEMBER	(|GO:0044428| OTA_JGI "GO:0044428 - nuclear part" NIL)
+//
+ID	62
+NAME	
+NEXT	63
+TIMESTAMP	3725996132
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(|GO:0009536| OTA_JGI "GO:0009536 - plastid" NIL)
+MEMBER	(|GO:0044435| OTA_JGI "GO:0044435 - plastid part" NIL)
+//
+ID	10
+NAME	
+TIMESTAMP	3711734802
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+SORT-KEY	:MATCHES
+SORT-DESCENDING	T
+COLUMN-KEY	GIBBS-0
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(RXN0-1132 OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine + NAD<sup>+</sup>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-1133 OTA "acetyl-CoA + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine  &larr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + coenzyme A" NIL)
+MEMBER	(RXN0-1134 OTA "pyruvate + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(PSII-RXN OTA "2 a plastoquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB> + oxygen<SUB>[in]</SUB>  &larr;  h&nu; + 2 a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(1.18.1.2-RXN OTA "2 a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADP<sup>+</sup><SUB>[in]</SUB> + H<SUP>+</SUP><SUB>[in]</SUB>  &harr;  2 an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADPH<SUB>[in]</SUB>" NIL)
+MEMBER	(PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN OTA "2 an oxidized plastocyanin<SUB>[in]</SUB> + a plastoquinol<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>  &rarr;  2 a reduced plastocyanin<SUB>[in]</SUB> + a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(RXN-15479 OTA "an oxidized plastocyanin<SUB>[in]</SUB> + a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>  &larr;  h&nu; + a reduced plastocyanin<SUB>[in]</SUB> + an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(3PGAREARR-RXN OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(2PGADEHYDRAT-RXN OTA "2-phospho-D-glycerate  &harr;  phospho<i>enol</i>pyruvate + H<sub>2</sub>O" NIL)
+MEMBER	(PEPDEPHOS-RXN OTA "pyruvate + ATP  &larr;  phospho<i>enol</i>pyruvate + ADP" NIL)
+MEMBER	(RXN-15513 OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(6PFRUCTPHOS-RXN OTA "ATP + &beta;-D-fructofuranose 6-phosphate  &rarr;  ADP + fructose 1,6-bisphosphate" NIL)
+MEMBER	(PGLUCISOM-RXN OTA "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN OTA "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH" NIL)
+MEMBER	(PEPSYNTH-RXN OTA "pyruvate + ATP + H<sub>2</sub>O  &rarr;  phospho<i>enol</i>pyruvate + AMP + phosphate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(1.1.1.8-RXN OTA "<i>sn</i>-glycerol 3-phosphate + NAD<sup>+</sup>  &larr;  glycerone phosphate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-15745 OTA "<i>sn</i>-glycerol 3-phosphate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  glycerone phosphate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(RXN-12383 OTA "2 a 1,2-diacyl-<i>sn</i>-glycerol  &harr;  a triacyl-<i>sn</i>-glycerol + a 2-acylglycerol" NIL)
+MEMBER	(PHOSPHATIDATE-PHOSPHATASE-RXN OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<sub>2</sub>O  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol + phosphate" NIL)
+MEMBER	(RXN-1381 OTA "a long-chain acyl-CoA + <i>sn</i>-glycerol 3-phosphate  &rarr;  a 1-acyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1623 OTA "a long-chain acyl-CoA + a 1-acyl-<i>sn</i>-glycerol 3-phosphate  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1641 OTA "a phosphatidylcholine + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN OTA "an acyl-CoA + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + coenzyme A" NIL)
+MEMBER	(RXN-12959 OTA "CTP + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  CDP + a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN OTA "2 3-phospho-D-glycerate + 2 H<SUP>+</SUP>  &larr;  D-ribulose-1,5-bisphosphate + CO<SUB>2</SUB> + H<sub>2</sub>O" NIL)
+MEMBER	(PHOSPHORIBULOKINASE-RXN OTA "D-ribulose 5-phosphate + ATP  &rarr;  D-ribulose-1,5-bisphosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(2TRANSKETO-RXN OTA "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RIB5PISOM-RXN OTA "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN OTA "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(PHOSGLYPHOS-RXN OTA "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN OTA "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN OTA "fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(F16BDEPHOS-RXN OTA "fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(1.2.1.13-RXN OTA "D-glyceraldehyde 3-phosphate + NADP<sup>+</sup> + phosphate  &larr;  3-phospho-D-glyceroyl-phosphate + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(SEDOHEPTULOSE-BISPHOSPHATASE-RXN OTA "D-sedoheptulose-1,7-bisphosphate + H<sub>2</sub>O  &rarr;  D-sedoheptulose 7-phosphate + phosphate" NIL)
+MEMBER	(SEDOBISALDOL-RXN OTA "glycerone phosphate + D-erythrose 4-phosphate  &rarr;  D-sedoheptulose-1,7-bisphosphate" NIL)
+//
+ID	51
+NAME	
+NEXT	88
+TIMESTAMP	3723577611
+DESCRIPTION	
+PROTECT	NIL
+COLUMN-KEY	:PWYS
+COLUMN-KEY	REACTION-DIRECTION
+COLUMN-KEY	REACTION-LIST
+COLUMN-KEY	SUBSTRATES
+MEMBER	(NIL NIL "<i>cis</i>-aconitate<sub>[cytosol]</sub>  &rarr;  citrate<sub>[mitochondrial lumen]</sub>" NIL)
+MEMBER	(TRANS-RXN1FV3-42 YARROWIA "<i>cis</i>-aconitate<sub>[mitochondrial lumen]</sub> + (<i>S</i>)-malate<sub>[cytosol]</sub>  &rarr;  (<i>S</i>)-malate<sub>[mitochondrial lumen]</sub> + <i>cis</i>-aconitate<sub>[cytosol]</sub>" NIL)
+MEMBER	(PWY-5750-1 YARROWIA "itaconate biosynthesis" NIL)
+//
+ID	19
+NAME	
+NEXT	21
+TIMESTAMP	3713047496
+DESCRIPTION	Pentos phosphate pathway
+PROTECT	NIL
+COLUMN-KEY	:GENES
+COLUMN-KEY	IN-PATHWAY
+MEMBER	(GLYCOLYSIS ECOLI "glycolysis I (from glucose 6-phosphate)" NIL)
+MEMBER	(PENTOSE-P-PWY ECOLI "pentose phosphate pathway" NIL)
+MEMBER	(TCA-GLYOX-BYPASS ECOLI "superpathway of glyoxylate bypass and TCA" NIL)
+//
+ID	92
+NAME	
+NEXT	93
+TIMESTAMP	3728321937
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY1FV1-3 OTA "PPP_Gly_TCA" NIL)
+MEMBER	(PWY1FV1-3 OTA "PPP_Gly_TCA" NIL)
+//
+ID	12
+NAME	
+NEXT	73
+TIMESTAMP	3711739090
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+//
+ID	49
+NAME	
+NEXT	50
+TIMESTAMP	3723577400
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(NIL NIL "<i>cis</i>-aconitate<sub>[cytosol]</sub>  &rarr;  citrate<sub>[mitochondrial lumen]</sub>" NIL)
+MEMBER	(TRANS-RXN1FV3-42 YARROWIA "<i>cis</i>-aconitate<sub>[mitochondrial lumen]</sub> + (<i>S</i>)-malate<sub>[cytosol]</sub>  &rarr;  (<i>S</i>)-malate<sub>[mitochondrial lumen]</sub> + <i>cis</i>-aconitate<sub>[cytosol]</sub>" NIL)
+//
+ID	58
+NAME	
+NEXT	59
+TIMESTAMP	3725995953
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(|GO:0005739| OTA_JGI "GO:0005739 - mitochondrion" NIL)
+MEMBER	(|GO:0044429| OTA_JGI "GO:0044429 - mitochondrial part" NIL)
+//
+ID	77
+NAME	
+NEXT	83
+TIMESTAMP	3727026975
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(FRUCTOSE-6P OTA "&beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(ATP OTA "ATP" NIL)
+MEMBER	(GLYCOGENSYNTH-PWY OTA "glycogen biosynthesis I (from ADP-D-Glucose)" NIL)
+MEMBER	(PROTON OTA "H<SUP>+</SUP>" NIL)
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+//
+ID	9
+NAME	
+NEXT	14
+TIMESTAMP	3711734658
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(CALVIN-PWY OTA "Calvin-Benson-Bassham cycle" NIL)
+MEMBER	(TRIGLSYN-PWY OTA "diacylglycerol and triacylglycerol biosynthesis" NIL)
+MEMBER	(PWY-6118 OTA "glycerol-3-phosphate shuttle" NIL)
+MEMBER	(NIL NIL "glycolysis I (from glucose 6-phosphate)" NIL)
+MEMBER	(PENTOSE-P-PWY OTA "pentose phosphate pathway" NIL)
+MEMBER	(PWY-101 OTA "photosynthesis light reactions" NIL)
+MEMBER	(PYRUVDEHYD-PWY OTA "pyruvate decarboxylation to acetyl CoA" NIL)
+MEMBER	(PWY-5723 OTA "Rubisco shunt" NIL)
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+//
+ID	99
+NAME	
+NEXT	103
+TIMESTAMP	3735302409
+DESCRIPTION	
+PROTECT	NIL
+COLUMN-KEY	GIBBS-0
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(6PFRUCTPHOS-RXN OTA "ATP + &beta;-D-fructofuranose 6-phosphate  &rarr;  ADP + fructose 1,6-bisphosphate" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(PGLUCISOM-RXN OTA "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN OTA "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(PWY1FV1-3 OTA "PPP_Gly_TCA" NIL)
+MEMBER	(PWY1FV1-3 OTA_JGI "PPP_Gly_TCA" NIL)
+MEMBER	(PYRUVATE-DEHYDROGENASE-NADP+-RXN META "pyruvate + coenzyme A + NADP<sup>+</sup>  &harr;  acetyl-CoA + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+//
+ID	71
+NAME	
+NEXT	72
+TIMESTAMP	3726330249
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(TCA-VARIANTS OTA "TCA cycle" NIL)
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+MEMBER	(P105-PWY OTA "TCA cycle IV (2-oxoglutarate decarboxylase)" NIL)
+//
+ID	41
+NAME	
+NEXT	42
+TIMESTAMP	3722987600
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-5750-1 YARROWIA "itaconate biosynthesis" NIL)
+//
+ID	66
+NAME	
+NEXT	67
+TIMESTAMP	3725996242
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(|GO:0042579| OTA_JGI "GO:0042579 - microbody" NIL)
+MEMBER	(|GO:0044438| OTA_JGI "GO:0044438 - microbody part" NIL)
+//
+ID	67
+NAME	microbody
+PREV	66
+TIMESTAMP	3725996290
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:GO-ANNOTS
+MEMBER	(G1IZ1-7933-MONOMER OTA_JGI "Acyl-CoA oxidase." NIL)
+MEMBER	(G1IZ1-8788-MONOMER OTA_JGI "Nuclear AAA ATPase (VCP subfamily)" NIL)
+MEMBER	(G1IZ1-15254-MONOMER OTA_JGI "Peroxisomal biogenesis protein (peroxin)" NIL)
+MEMBER	(G1IZ1-13009-MONOMER OTA_JGI "Peroxisomal biogenesis protein (peroxin)" NIL)
+MEMBER	(G1IZ1-8200-MONOMER OTA_JGI "Peroxisomal membrane anchor protein (peroxin)" NIL)
+MEMBER	(G1IZ1-13407-MONOMER OTA_JGI "Predicted E3 ubiquitin ligase" NIL)
+MEMBER	(G1IZ1-8811-MONOMER OTA_JGI "Predicted E3 ubiquitin ligase involved in peroxisome organization" NIL)
+MEMBER	(G1IZ1-13506-MONOMER OTA_JGI "Predicted E3 ubiquitin ligase, integral peroxisomal membrane protein" NIL)
+//
+ID	42
+NAME	Table 1-1
+PREV	41
+TIMESTAMP	3722987653
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+MEMBER	(ACONITATE-DECARBOXYLASE-RXN YARROWIA "<i>cis</i>-aconitate + H<SUP>+</SUP>  &rarr;  CO<SUB>2</SUB> + itaconate" NIL)
+MEMBER	(TRANS-RXN1FV3-40 YARROWIA "<i>cis</i>-aconitate<sub>[mitochondrial lumen]</sub>  &rarr;  <i>cis</i>-aconitate<sub>[cytosol]</sub>" NIL)
+MEMBER	(CITSYN-RXN YARROWIA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A + H<SUP>+</SUP>" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN YARROWIA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(TRANS-RXN1FV3-41 YARROWIA "itaconate<sub>[cytosol]</sub>  &rarr;  itaconate<sub>[extracellular space]</sub>" NIL)
+MEMBER	(PYRUVATE-CARBOXYLASE-RXN YARROWIA "pyruvate + hydrogencarbonate + ATP  &rarr;  oxaloacetate + ADP + phosphate + H<SUP>+</SUP>" NIL)
+//
+ID	84
+NAME	Table 1
+TIMESTAMP	3728101424
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY1IZ1-1 OTA_JGI "Central Pathway" NIL)
+//
+ID	94
+NAME	GLY_PPP_TCA>Reactions_dg
+PREV	93
+TIMESTAMP	3728322074
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(RXN-7774 OTA "2-oxoglutarate + H<SUP>+</SUP>  &rarr;  succinate semialdehyde + CO<SUB>2</SUB>" NIL)
+MEMBER	(NIL NIL "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(3PGAREARR-RXN OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(2PGADEHYDRAT-RXN OTA "2-phospho-D-glycerate  &harr;  phospho<i>enol</i>pyruvate + H<sub>2</sub>O" NIL)
+MEMBER	(PHOSGLYPHOS-RXN OTA "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(RXN0-1132 OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine + NAD<sup>+</sup>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-1133 OTA "acetyl-CoA + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine  &larr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + coenzyme A" NIL)
+MEMBER	(MALSYN-RXN OTA "acetyl-CoA + glyoxylate + H<sub>2</sub>O  &rarr;  (<i>S</i>)-malate + coenzyme A" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(6PFRUCTPHOS-RXN OTA "ATP + &beta;-D-fructofuranose 6-phosphate  &rarr;  ADP + fructose 1,6-bisphosphate" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(ISOCIT-CLEAV-RXN OTA "D-<i>threo</i>-isocitrate  &rarr;  glyoxylate + succinate" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(ISOCITDEH-RXN OTA "D-<i>threo</i>-isocitrate + NADP<sup>+</sup>  &harr;  2-oxoglutarate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(2TRANSKETO-RXN OTA "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(PGLUCISOM-RXN OTA "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN OTA "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN OTA "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH" NIL)
+MEMBER	(RIB5PISOM-RXN OTA "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN OTA "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN OTA "fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(NIL NIL "fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(RXN0-1134 OTA "pyruvate + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(PEPDEPHOS-RXN OTA "pyruvate + ATP  &larr;  phospho<i>enol</i>pyruvate + ADP" NIL)
+MEMBER	(NIL NIL "pyruvate + ATP + H<sub>2</sub>O  &rarr;  phospho<i>enol</i>pyruvate + AMP + phosphate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(SUCCSEMIALDDEHYDROG-RXN OTA "succinate semialdehyde + NADP<sup>+</sup> + H<sub>2</sub>O  &rarr;  succinate + NADPH + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+//
+ID	68
+NAME	microbody reactions
+PREV	67
+TIMESTAMP	3725996305
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:ENZ-RXNS
+MEMBER	(RXN-16557 OTA_JGI "(11<i>Z</i>)-hexadecenoyl-CoA + an oxidized electron-transfer flavoprotein + H<SUP>+</SUP>  =  (2<i>E</i>,11<i>Z</i>)-hexadec-2,11-dienoyl-CoA + a reduced electron-transfer flavoprotein" NIL)
+MEMBER	(RXN-14576 OTA_JGI "(5Z)-tetradecenoyl-CoA + oxygen  &rarr;  (2E,5Z)-tetradecenoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-17113 OTA_JGI "(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA + oxygen  =  (2E,6Z,9Z,12Z,15Z,18Z)-tetracosahexaenoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-16134 OTA_JGI "(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA + oxygen  &rarr;  (2E,6Z,9Z,12Z,15Z,18Z,21Z)-tetracosaheptaenoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-10707 OTA_JGI "3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-butanoyl-CoA + oxygen  &rarr;  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-buta-2-enoyl)-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-10706 OTA_JGI "3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-hexanoyl-CoA + oxygen  &rarr;  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-hexa-2-enoyl)-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-10696 OTA_JGI "3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-octanoyl-CoA + oxygen  &rarr;  3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-octa-2-enoyl)-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-14775 OTA_JGI "4-<i>cis</i>-undecenoyl-CoA + oxygen  &rarr;  2-<i>trans</i>, 4-<i>cis</i>-undecadienoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-14789 OTA_JGI "4-<i>trans</i>-undecenoyl-CoA + oxygen  &rarr;  2-<i>trans</i>, 4-<i>trans</i>-undecadienoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-18383 OTA_JGI "4-hydroxybutanoyl-CoA + oxygen  &rarr;  4-hydroxycrotonyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-14796 OTA_JGI "5-<i>cis</i>, 7-<i>trans</i>-tetradecadienoyl-CoA + oxygen  &rarr;  2-<i>trans</i>, 5-<i>cis</i>, 7-<i>trans</i>-tetradecatrienoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-14771 OTA_JGI "6-<i>cis</i>-tridecenoyl-CoA + oxygen  &rarr;  6-<i>cis</i>, 2-<i>trans</i>-tridecadienoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-14785 OTA_JGI "6-<i>trans</i>-tridecenoyl-CoA + oxygen  &rarr;  2-<i>trans</i>-6-<i>trans</i>-tridecadienoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(ACYLCOADEHYDROG-RXN OTA_JGI "a 2,3,4-saturated fatty acyl CoA + an oxidized electron-transfer flavoprotein + H<SUP>+</SUP>  &rarr;  a (2E)-alkan-2-enoyl-CoA + a reduced electron-transfer flavoprotein" NIL)
+MEMBER	(RXN-11026 OTA_JGI "a 2,3,4-saturated fatty acyl CoA + oxygen  &rarr;  a (2E)-alkan-2-enoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-12518 OTA_JGI "a (5Z)-alkan-5-enoyl-CoA + oxygen  &rarr;  a (2E,5Z)-alkan-2,5-dienoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-18461 OTA_JGI "a decanoyl-[acp] + oxygen  &rarr;  a (2E)-dec-2-enoyl-[acp] + hydrogen peroxide" NIL)
+MEMBER	(LONG-CHAIN-FATTY-ACYL-COA-REDUCTASE-RXN OTA_JGI "a long-chain aldehyde + coenzyme A + NADP<sup>+</sup>  &larr;  a long-chain acyl-CoA + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(NUCLEOSIDE-TRIPHOSPHATASE-RXN OTA_JGI "a nucleoside triphosphate + H<sub>2</sub>O  &rarr;  a nucleoside diphosphate + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-13451 OTA_JGI "a very-long-chain 2,3,4-saturated fatty acyl CoA + an oxidized electron-transfer flavoprotein + H<SUP>+</SUP>  =  a very-long-chain <i>trans</i>-2,3-dehydroacyl-CoA + a reduced electron-transfer flavoprotein" NIL)
+MEMBER	(ATPASE-RXN OTA_JGI "ATP + H<sub>2</sub>O  &rarr;  ADP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-12195 OTA_JGI "CTP + H<sub>2</sub>O  &rarr;  CDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14214 OTA_JGI "dATP + H<sub>2</sub>O  &rarr;  dADP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14216 OTA_JGI "dCTP + H<sub>2</sub>O  &rarr;  dCDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14217 OTA_JGI "dGTP + H<sub>2</sub>O  &rarr;  dGDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(THYMIDINE-TRIPHOSPHATASE-RXN OTA_JGI "dTTP + H<sub>2</sub>O  &rarr;  dTDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14219 OTA_JGI "dUTP + H<sub>2</sub>O  &rarr;  dUDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-5462 OTA_JGI "GTP + H<sub>2</sub>O  &rarr;  GDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-12669 OTA_JGI "octanoyl-CoA + oxygen  &rarr;  <i>trans</i>-oct-2-enoyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-16540 OTA_JGI "palmitoyl-CoA + an oxidized electron-transfer flavoprotein + H<SUP>+</SUP>  &rarr;  trans-hexadec-2-enoyl-CoA + a reduced electron-transfer flavoprotein" NIL)
+MEMBER	(RXN-15977 OTA_JGI "propanoyl-CoA + oxygen  &rarr;  acryloyl-CoA + hydrogen peroxide" NIL)
+MEMBER	(RXN-12196 OTA_JGI "UTP + H<sub>2</sub>O  &rarr;  UDP + phosphate + H<SUP>+</SUP>" NIL)
+//
+ID	72
+NAME	TCA II and IV
+PREV	71
+TIMESTAMP	3726330296
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(RXN-7774 OTA "2-oxoglutarate + H<SUP>+</SUP>  &rarr;  succinate semialdehyde + CO<SUB>2</SUB>" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(MALSYN-RXN OTA "acetyl-CoA + glyoxylate + H<sub>2</sub>O  &rarr;  (<i>S</i>)-malate + coenzyme A" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(ISOCIT-CLEAV-RXN OTA "D-<i>threo</i>-isocitrate  &rarr;  glyoxylate + succinate" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(ISOCITDEH-RXN OTA "D-<i>threo</i>-isocitrate + NADP<sup>+</sup>  &harr;  2-oxoglutarate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(SUCCSEMIALDDEHYDROG-RXN OTA "succinate semialdehyde + NADP<sup>+</sup> + H<sub>2</sub>O  &rarr;  succinate + NADPH + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+//
+ID	82
+NAME	Reactions_9Pathways_Central_metabolims
+PREV	14
+TIMESTAMP	3728080606
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN OTA "2 3-phospho-D-glycerate + 2 H<SUP>+</SUP>  &larr;  D-ribulose-1,5-bisphosphate + CO<SUB>2</SUB> + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12383 OTA "2 a 1,2-diacyl-<i>sn</i>-glycerol  &harr;  a triacyl-<i>sn</i>-glycerol + a 2-acylglycerol" NIL)
+MEMBER	(PSII-RXN OTA "2 a plastoquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB> + oxygen<SUB>[in]</SUB>  &larr;  h&nu; + 2 a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(1.18.1.2-RXN OTA "2 a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADP<sup>+</sup><SUB>[in]</SUB> + H<SUP>+</SUP><SUB>[in]</SUB>  &harr;  2 an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADPH<SUB>[in]</SUB>" NIL)
+MEMBER	(PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN OTA "2 an oxidized plastocyanin<SUB>[in]</SUB> + a plastoquinol<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>  &rarr;  2 a reduced plastocyanin<SUB>[in]</SUB> + a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(RXN-15513 OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(3PGAREARR-RXN OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(2PGADEHYDRAT-RXN OTA "2-phospho-D-glycerate  &harr;  phospho<i>enol</i>pyruvate + H<sub>2</sub>O" NIL)
+MEMBER	(PHOSGLYPHOS-RXN OTA "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(1.1.1.8-RXN OTA "<i>sn</i>-glycerol 3-phosphate + NAD<sup>+</sup>  &larr;  glycerone phosphate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-15745 OTA "<i>sn</i>-glycerol 3-phosphate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  glycerone phosphate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(PHOSPHATIDATE-PHOSPHATASE-RXN OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<sub>2</sub>O  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol + phosphate" NIL)
+MEMBER	(RXN-1381 OTA "a long-chain acyl-CoA + <i>sn</i>-glycerol 3-phosphate  &rarr;  a 1-acyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1623 OTA "a long-chain acyl-CoA + a 1-acyl-<i>sn</i>-glycerol 3-phosphate  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1641 OTA "a phosphatidylcholine + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(RXN0-1132 OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine + NAD<sup>+</sup>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-1133 OTA "acetyl-CoA + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine  &larr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + coenzyme A" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN OTA "an acyl-CoA + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + coenzyme A" NIL)
+MEMBER	(RXN-15479 OTA "an oxidized plastocyanin<SUB>[in]</SUB> + a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>  &larr;  h&nu; + a reduced plastocyanin<SUB>[in]</SUB> + an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>" NIL)
+MEMBER	(6PFRUCTPHOS-RXN OTA "ATP + &beta;-D-fructofuranose 6-phosphate  &rarr;  ADP + fructose 1,6-bisphosphate" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12959 OTA "CTP + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  CDP + a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(2TRANSKETO-RXN OTA "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(PGLUCISOM-RXN OTA "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN OTA "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN OTA "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH" NIL)
+MEMBER	(1.2.1.13-RXN OTA "D-glyceraldehyde 3-phosphate + NADP<sup>+</sup> + phosphate  &larr;  3-phospho-D-glyceroyl-phosphate + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(RIB5PISOM-RXN OTA "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN OTA "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(PHOSPHORIBULOKINASE-RXN OTA "D-ribulose 5-phosphate + ATP  &rarr;  D-ribulose-1,5-bisphosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(SEDOHEPTULOSE-BISPHOSPHATASE-RXN OTA "D-sedoheptulose-1,7-bisphosphate + H<sub>2</sub>O  &rarr;  D-sedoheptulose 7-phosphate + phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN OTA "fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(F16BDEPHOS-RXN OTA "fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(SEDOBISALDOL-RXN OTA "glycerone phosphate + D-erythrose 4-phosphate  &rarr;  D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(RXN0-1134 OTA "pyruvate + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(PEPDEPHOS-RXN OTA "pyruvate + ATP  &larr;  phospho<i>enol</i>pyruvate + ADP" NIL)
+MEMBER	(PEPSYNTH-RXN OTA "pyruvate + ATP + H<sub>2</sub>O  &rarr;  phospho<i>enol</i>pyruvate + AMP + phosphate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+//
+ID	103
+NAME	PPP_Gly_TCA
+PREV	99
+TIMESTAMP	3736613793
+DESCRIPTION	
+PROTECT	NIL
+COLUMN-KEY	GIBBS-0
+MEMBER	(PWY1FV1-3 OTA "PPP_Gly_TCA" NIL)
+MEMBER	(PWY1FV1-3 OTA_JGI "PPP_Gly_TCA" NIL)
+//
+ID	14
+NAME	>Table 3-1
+PREV	9
+TIMESTAMP	3711739264
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:OTHER-PGDB
+MEMBER	(CALVIN-PWY OTA "Calvin-Benson-Bassham cycle" NIL)
+MEMBER	(TRIGLSYN-PWY OTA "diacylglycerol and triacylglycerol biosynthesis" NIL)
+MEMBER	(PWY-6118 OTA "glycerol-3-phosphate shuttle" NIL)
+MEMBER	(NIL NIL "glycolysis I (from glucose 6-phosphate)" NIL)
+MEMBER	(PENTOSE-P-PWY OTA "pentose phosphate pathway" NIL)
+MEMBER	(PWY-101 OTA "photosynthesis light reactions" NIL)
+MEMBER	(PYRUVDEHYD-PWY OTA "pyruvate decarboxylation to acetyl CoA" NIL)
+MEMBER	(PWY-5723 OTA "Rubisco shunt" NIL)
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+//
+ID	83
+NAME	Glycogen_Starch_pathway
+PREV	77
+TIMESTAMP	3728101058
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(FRUCTOSE-6P OTA "&beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(ATP OTA "ATP" NIL)
+MEMBER	(GLYCOGENSYNTH-PWY OTA "glycogen biosynthesis I (from ADP-D-Glucose)" NIL)
+MEMBER	(NIL NIL "glycolysis I (from glucose 6-phosphate)" NIL)
+MEMBER	(PROTON OTA "H<SUP>+</SUP>" NIL)
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+//
+ID	37
+NAME	Table 1-2
+TIMESTAMP	3722194757
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-6333 OTA "acetaldehyde biosynthesis I" NIL)
+MEMBER	(PWY-6144 OTA "CMP-<i>N</i>-glycoloylneuraminate biosynthesis" NIL)
+MEMBER	(PWY-66 OTA "GDP-L-fucose biosynthesis I (from GDP-D-mannose)" NIL)
+MEMBER	(PWY-6 OTA "GDP-L-fucose biosynthesis II (from L-fucose)" NIL)
+MEMBER	(PWY-5659 OTA "GDP-mannose biosynthesis" NIL)
+MEMBER	(GLUCONEO-PWY OTA "gluconeogenesis I" NIL)
+MEMBER	(GLYCOGENSYNTH-PWY OTA "glycogen biosynthesis I (from ADP-D-Glucose)" NIL)
+MEMBER	(MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS OTA "protein <i>N</i>-glycosylation (eukaryotic, high mannose)" NIL)
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+MEMBER	(SUCSYN-PWY OTA "sucrose biosynthesis I (from photosynthesis)" NIL)
+MEMBER	(PWY-7238 OTA "sucrose biosynthesis II" NIL)
+MEMBER	(PWY-7344 OTA "UDP-&alpha;-D-galactose biosynthesis" NIL)
+MEMBER	(PWY-4821 OTA "UDP-&alpha;-D-xylose biosynthesis" NIL)
+MEMBER	(PWY-3261 OTA "UDP-&beta;-L-rhamnose biosynthesis" NIL)
+MEMBER	(UDPNACETYLGALSYN-PWY OTA "UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II" NIL)
+//
+ID	59
+NAME	mitrochondrian
+PREV	58
+TIMESTAMP	3725996002
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:GO-ANNOTS
+MEMBER	(G1IZ1-14421-MONOMER OTA_JGI "Cytochrome c oxidase assembly protein/Cu2+ chaperone COX17" NIL)
+MEMBER	(G1IZ1-7985-MONOMER OTA_JGI "Cytochrome c oxidase, subunit Vb/COX4" NIL)
+MEMBER	(G1IZ1-14274-MONOMER OTA_JGI "Cytochrome c oxidase, subunit VIa/COX13" NIL)
+MEMBER	(G1IZ1-14804-MONOMER OTA_JGI "Cytochrome c oxidase, subunit VIb/COX12" NIL)
+MEMBER	(G1IZ1-11745-MONOMER OTA_JGI "electron transport//heme binding//integral to membrane//iron ion binding//mitochondrial envelope//tricarboxylic acid cycle" NIL)
+MEMBER	(G1IZ1-11796-MONOMER OTA_JGI "Glycine dehydrogenase (decarboxylating)." NIL)
+MEMBER	(G1IZ1-14805-MONOMER OTA_JGI "Holocytochrome-c synthase." NIL)
+MEMBER	(G1IZ1-14854-MONOMER OTA_JGI "Holocytochrome-c synthase." NIL)
+MEMBER	(G1IZ1-12906-MONOMER OTA_JGI "Inorganic pyrophosphatase." NIL)
+MEMBER	(G1IZ1-10982-MONOMER OTA_JGI "Inorganic pyrophosphatase." NIL)
+MEMBER	(G1IZ1-10393-MONOMER OTA_JGI "MAM33, mitochondrial matrix glycoprotein" NIL)
+MEMBER	(G1IZ1-12910-MONOMER OTA_JGI "Mitochondrial ADP/ATP carrier proteins" NIL)
+MEMBER	(G1IZ1-8793-MONOMER OTA_JGI "Mitochondrial carnitine-acylcarnitine carrier protein" NIL)
+MEMBER	(G1IZ1-12598-MONOMER OTA_JGI "Mitochondrial carrier protein - Rim2p/Mrs12p" NIL)
+MEMBER	(G1IZ1-15127-MONOMER OTA_JGI "Mitochondrial carrier protein CGI-69" NIL)
+MEMBER	(G1IZ1-8025-MONOMER OTA_JGI "Mitochondrial carrier protein PET8" NIL)
+MEMBER	(G1IZ1-14178-MONOMER OTA_JGI "mitochondrial envelope//respiratory gaseous exchange" NIL)
+MEMBER	(G1IZ1-12565-MONOMER OTA_JGI "mitochondrial envelope//respiratory gaseous exchange" NIL)
+MEMBER	(G1IZ1-11954-MONOMER OTA_JGI "mitochondrial envelope//respiratory gaseous exchange" NIL)
+MEMBER	(G1IZ1-11235-MONOMER OTA_JGI "Mitochondrial F1F0-ATP synthase, subunit epsilon/ATP15" NIL)
+MEMBER	(G1IZ1-13331-MONOMER OTA_JGI "Mitochondrial FAD carrier protein" NIL)
+MEMBER	(G1IZ1-11460-MONOMER OTA_JGI "Mitochondrial fatty acid anion carrier protein/Uncoupling protein" NIL)
+MEMBER	(G1IZ1-8222-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM13" NIL)
+MEMBER	(G1IZ1-7814-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM17" NIL)
+MEMBER	(G1IZ1-10275-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM22" NIL)
+MEMBER	(G1IZ1-8146-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM22" NIL)
+MEMBER	(G1IZ1-9071-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM23" NIL)
+MEMBER	(G1IZ1-12519-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM44" NIL)
+MEMBER	(G1IZ1-11874-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM8" NIL)
+MEMBER	(G1IZ1-13650-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunit TIM9" NIL)
+MEMBER	(G1IZ1-8977-MONOMER OTA_JGI "Mitochondrial import inner membrane translocase, subunits TIM10/TIM12" NIL)
+MEMBER	(G1IZ1-8672-MONOMER OTA_JGI "Mitochondrial oxoglutarate/malate carrier proteins" NIL)
+MEMBER	(G1IZ1-15098-MONOMER OTA_JGI "Mitochondrial phosphate carrier protein" NIL)
+MEMBER	(G1IZ1-14032-MONOMER OTA_JGI "Mitochondrial phosphate carrier protein" NIL)
+MEMBER	(G1IZ1-15252-MONOMER OTA_JGI "Mitochondrial processing peptidase." NIL)
+MEMBER	(G1IZ1-13670-MONOMER OTA_JGI "Mitochondrial processing peptidase." NIL)
+MEMBER	(G1IZ1-14273-MONOMER OTA_JGI "Mitochondrial solute carrier protein" NIL)
+MEMBER	(G1IZ1-13348-MONOMER OTA_JGI "Mitochondrial solute carrier protein" NIL)
+MEMBER	(G1IZ1-11085-MONOMER OTA_JGI "Mitochondrial solute carrier protein" NIL)
+MEMBER	(G1IZ1-9315-MONOMER OTA_JGI "Mitochondrial solute carrier protein" NIL)
+MEMBER	(G1IZ1-9426-MONOMER OTA_JGI "Mitochondrial solute carrier protein" NIL)
+MEMBER	(G1IZ1-10095-MONOMER OTA_JGI "Mitochondrial/chloroplast ribosomal protein L4/L29" NIL)
+MEMBER	(G1IZ1-11917-MONOMER OTA_JGI "NADH:ubiquinone oxidoreductase, NDUFA5/B13 subunit" NIL)
+MEMBER	(G1IZ1-8227-MONOMER OTA_JGI "NADH:ubiquinone oxidoreductase, NDUFB7/B18 subunit" NIL)
+MEMBER	(G1IZ1-10030-MONOMER OTA_JGI "P-P-bond-hydrolysis-driven protein transmembrane transporter activity//intracellular protein transport//mitochondrial outer membrane" NIL)
+MEMBER	(G1IZ1-13913-MONOMER OTA_JGI "Predicted mitochondrial carrier protein" NIL)
+MEMBER	(G1IZ1-14080-MONOMER OTA_JGI "Predicted mitochondrial carrier protein" NIL)
+MEMBER	(G1IZ1-12216-MONOMER OTA_JGI "Predicted mitochondrial carrier protein" NIL)
+MEMBER	(G1IZ1-8768-MONOMER OTA_JGI "Predicted mitochondrial carrier protein" NIL)
+MEMBER	(G1IZ1-11902-MONOMER OTA_JGI "Putative mitochondrial/chloroplast ribosomal protein L45" NIL)
+MEMBER	(G1IZ1-15243-MONOMER OTA_JGI "Thymidine phosphorylase." NIL)
+MEMBER	(G1IZ1-9061-MONOMER OTA_JGI "Translocase of outer mitochondrial membrane complex, subunit TOM22" NIL)
+MEMBER	(G1IZ1-13201-MONOMER OTA_JGI "Ubiquinol cytochrome c oxidoreductase, subunit QCR9" NIL)
+MEMBER	(G1IZ1-14796-MONOMER OTA_JGI "Uncharacterized conserved protein" NIL)
+//
+ID	56
+NAME	Reactions of Nucleus Protein
+PREV	54
+TIMESTAMP	3725995667
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:ENZ-RXNS
+MEMBER	(RXN-8077 OTA_JGI "(2<i>S</i>)-2-phospholactate + GTP + H<SUP>+</SUP>  =  (2<i>S</i>)-lactyl-2-diphospho-5'-guanosine + diphosphate" NIL)
+MEMBER	(3.1.11.2-RXN OTA_JGI "(deoxynucleotides)<sub>(n)</sub> + H<sub>2</sub>O  &rarr;  (deoxynucleotides)<sub>(n-1)</sub> + a 2'-deoxyribonucleoside 5'-monophosphate" NIL)
+MEMBER	(RXN-9863 OTA_JGI "2,4-dichlorophenoxyacetate + 2-oxoglutarate + oxygen  &rarr;  2,4-dichlorophenol + glyoxylate + succinate + CO<SUB>2</SUB>" NIL)
+MEMBER	(3.5.1.80-RXN OTA_JGI "<i>N</i>-acetyl-D-galactosamine 6-phosphate + H<sub>2</sub>O  =  acetate + D-galactosamine 6-phosphate" NIL)
+MEMBER	(RXN-16890 OTA_JGI "<i>S</i>-adenosyl-L-methionine + a [protein]-L-arginine  =  <i>S</i>-adenosyl-L-homocysteine + [protein]-<i>N</i><sup>5</sup>-methyl-L-arginine + H<SUP>+</SUP>" NIL)
+MEMBER	(2.1.1.138-RXN OTA_JGI "<i>S</i>-adenosyl-L-methionine + methylarsonite  &rarr;  <i>S</i>-adenosyl-L-homocysteine + cacodylate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(2.7.1.68-RXN OTA_JGI "a 1-phosphatidyl-1D-<i>myo</i>-inositol 4-phosphate + ATP  &rarr;  a 1-phosphatidyl-1D-<i>myo</i>-inositol 4,5-bisphosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(DNA-DIRECTED-DNA-POLYMERASE-RXN OTA_JGI "a 2'-deoxyribonucleoside 5'-triphosphate + (deoxynucleotides)<sub>(n)</sub>  &rarr;  (deoxynucleotides)<sub>(n+1)</sub> + diphosphate" NIL)
+MEMBER	(RNA-DIRECTED-DNA-POLYMERASE-RXN OTA_JGI "a 2'-deoxyribonucleoside 5'-triphosphate + (deoxynucleotides)<sub>(n)</sub>  &rarr;  (deoxynucleotides)<sub>(n+1)</sub> + diphosphate" NIL)
+MEMBER	(2.1.1.62-RXN OTA_JGI "<i>S</i>-adenosyl-L-methionine + a 5'-(<i>N</i><sup>7</sup>-methyl 5'-triphosphoguanosine)-(2'-<i>O</i>-methyladenosine)-[mRNA]  &rarr;  a 5'-(<i>N</i><sup>7</sup>-methyl 5'-triphosphoguanosine)-(N<sup>6</sup>,2'-<i>O</i>-dimethyladenosine)-[mRNA] + <i>S</i>-adenosyl-L-homocysteine + H<SUP>+</SUP>" NIL)
+MEMBER	(TRANS-RXN-311 OTA_JGI "a drug<sub>[in]</sub> + ATP + H<sub>2</sub>O  &rarr;  a drug<sub>[out]</sub> + ADP + phosphate" NIL)
+MEMBER	(NUCLEOSIDE-TRIPHOSPHATASE-RXN OTA_JGI "a nucleoside triphosphate + H<sub>2</sub>O  &rarr;  a nucleoside diphosphate + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(DNA-DIRECTED-RNA-POLYMERASE-RXN OTA_JGI "a nucleoside triphosphate + RNA<sub>(n)</sub>  =  RNA<sub>(n+1)</sub> + diphosphate" NIL)
+MEMBER	(3.1.27.9-RXN OTA_JGI "a polycistronic tRNA precursor  =  a 5'-half-tRNA molecule with a 2',3'-cyclic phosphate end + a 3'-half-tRNA molecule with a 5'-OH end + a tRNA intron with a 2',3'-cyclic phosphate and a 5'-hydroxyl terminus" NIL)
+MEMBER	(RXN0-4261 OTA_JGI "a supercoiled duplex DNA + ATP + H<sub>2</sub>O  =  a single stranded DNA + ADP + phosphate" NIL)
+MEMBER	(RXN0-6480 OTA_JGI "a tRNA precursor with a 5' extension + H<sub>2</sub>O  &rarr;  an uncharged tRNA + a tRNA fragment" NIL)
+MEMBER	(3.1.26.5-RXN OTA_JGI "a tRNA precursor with a 5' extension and a short 3' extension + H<sub>2</sub>O  &rarr;  a tRNA precursor with a short 3' extension + a tRNA fragment" NIL)
+MEMBER	(3.6.3.44-RXN OTA_JGI "a xenobiotic<sub>[in]</sub> + ATP + H<sub>2</sub>O  =  a xenobiotic<sub>[out]</sub> + ADP + phosphate" NIL)
+MEMBER	(RXN-5185 OTA_JGI "a [2-aminoadipate carrier protein]-C-terminal-L-glutamyl-&gamma;-L-lysine + H<sub>2</sub>O  &rarr;  L-lysine + a [2-aminoadipate carrier protein]-L-glutamate" NIL)
+MEMBER	(HISTONE-LYSINE-N-METHYLTRANSFERASE-RXN OTA_JGI "<i>S</i>-adenosyl-L-methionine + a [histone]-L-lysine  &rarr;  a [histone] <i>N</i><sup>6</sup>-methyl-L-lysine + <i>S</i>-adenosyl-L-homocysteine + H<SUP>+</SUP>" NIL)
+MEMBER	(3.5.1.98-RXN OTA_JGI "a [histone]-N<sup>6</sup>-acetyl-L-lysine + H<sub>2</sub>O  &rarr;  a [histone]-L-lysine + acetate" NIL)
+MEMBER	(RXN-8101 OTA_JGI "a [methyl-Co(III) dimethylamine-specific corrinoid protein] + coenzyme M  =  a [Co(I) dimethylamine-specific corrinoid protein] + methyl-CoM + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-8096 OTA_JGI "a [methyl-Co(III) methanol-specific corrinoid protein] + coenzyme M  =  a [Co(I) methanol-specific corrinoid protein] + methyl-CoM + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-8099 OTA_JGI "a [methyl-Co(III) methylamine-specific corrinoid protein] + coenzyme M  =  a [Co(I) methylamine-specific corrinoid protein] + methyl-CoM + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-8103 OTA_JGI "a [methyl-Co(III) trimethylamine-specific corrinoid protein] + coenzyme M  =  a [Co(I) trimethylamine-specific corrinoid protein] + methyl-CoM + H<SUP>+</SUP>" NIL)
+MEMBER	(3.1.3.16-RXN OTA_JGI "a [protein] (L-serine/L-threonine) phosphate + H<sub>2</sub>O  &rarr;  a [protein]-(L-serine/L-threonine) + phosphate" NIL)
+MEMBER	(PROTEIN-KINASE-RXN OTA_JGI "a [protein]-(L-serine/L-threonine) + ATP  =  a [protein] (L-serine/L-threonine) phosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(PEPTIDYLPROLYL-ISOMERASE-RXN OTA_JGI "a [protein]-L-proline (&omega; = 180)  &harr;  a [protein]-L-proline (&omega; = 0)" NIL)
+MEMBER	(2.1.1.127-RXN OTA_JGI "3 <i>S</i>-adenosyl-L-methionine + a [ribulose-1,5-bisphosphate-carboxylase]-lysine  &rarr;  a [ribulose-1,5-bisphosphate-carboxylase]-<i>N<sup>6</sup>,N<sup>6</sup>,N<sup>6</sup></i>-trimethyl-L-lysine + 3 <i>S</i>-adenosyl-L-homocysteine + 3 H<SUP>+</SUP>" NIL)
+MEMBER	(HISTONE-ACETYLTRANSFERASE-RXN OTA_JGI "acetyl-CoA + a [histone]-L-lysine  &rarr;  a [histone]-N<sup>6</sup>-acetyl-L-lysine + coenzyme A + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-5131 OTA_JGI "an insertion sequence element IS30  =  an insertion sequence IS30 with integrated transposon" NIL)
+MEMBER	(POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN OTA_JGI "ATP + an mRNA  =  an mRNA + diphosphate" NIL)
+MEMBER	(ATPASE-RXN OTA_JGI "ATP + H<sub>2</sub>O  &rarr;  ADP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-8761 OTA_JGI "<i>S</i>-adenosyl-L-methionine + cobalt-precorrin-3  &rarr;  cobalt-precorrin-4 + <i>S</i>-adenosyl-L-homocysteine" NIL)
+MEMBER	(RXN-8764 OTA_JGI "<i>S</i>-adenosyl-L-methionine + cobalt-precorrin-5B  &rarr;  cobalt-precorrin-6A + <i>S</i>-adenosyl-L-homocysteine" NIL)
+MEMBER	(RXN-8766 OTA_JGI "<i>S</i>-adenosyl-L-methionine + cobalt-precorrin-6B + H<SUP>+</SUP>  &rarr;  cobalt-precorrin-7 + <i>S</i>-adenosyl-L-homocysteine + CO<SUB>2</SUB>" NIL)
+MEMBER	(RXN-8767 OTA_JGI "<i>S</i>-adenosyl-L-methionine + cobalt-precorrin-7  &rarr;  cobalt-precorrin-8 + <i>S</i>-adenosyl-L-homocysteine" NIL)
+MEMBER	(RXN-12195 OTA_JGI "CTP + H<sub>2</sub>O  &rarr;  CDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14214 OTA_JGI "dATP + H<sub>2</sub>O  &rarr;  dADP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14216 OTA_JGI "dCTP + H<sub>2</sub>O  &rarr;  dCDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14217 OTA_JGI "dGTP + H<sub>2</sub>O  &rarr;  dGDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-8100 OTA_JGI "dimethylamine + a [Co(I) dimethylamine-specific corrinoid protein] + H<SUP>+</SUP>  =  a [methyl-Co(III) dimethylamine-specific corrinoid protein] + methylamine" NIL)
+MEMBER	(3.1.22.4-RXN OTA_JGI "DNA combined with exogenous DNA to form a recombinational junction + H<sub>2</sub>O  &rarr;  resolution of recombinational junction formation of two intact strands" NIL)
+MEMBER	(THYMIDINE-TRIPHOSPHATASE-RXN OTA_JGI "dTTP + H<sub>2</sub>O  &rarr;  dTDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-14219 OTA_JGI "dUTP + H<sub>2</sub>O  &rarr;  dUDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-5462 OTA_JGI "GTP + H<sub>2</sub>O  &rarr;  GDP + phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-8098 OTA_JGI "methylamine + a [Co(I) methylamine-specific corrinoid protein] + H<SUP>+</SUP>  =  a [methyl-Co(III) methylamine-specific corrinoid protein] + ammonium" NIL)
+MEMBER	(RXN-8102 OTA_JGI "trimethylamine + a [Co(I) trimethylamine-specific corrinoid protein] + H<SUP>+</SUP>  =  a [methyl-Co(III) trimethylamine-specific corrinoid protein] + dimethylamine" NIL)
+MEMBER	(RXN-12196 OTA_JGI "UTP + H<sub>2</sub>O  &rarr;  UDP + phosphate + H<SUP>+</SUP>" NIL)
+//
+ID	50
+NAME	Table 1-1-1
+PREV	49
+TIMESTAMP	3723577442
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(NIL NIL "<i>cis</i>-aconitate<sub>[cytosol]</sub>  &rarr;  citrate<sub>[mitochondrial lumen]</sub>" NIL)
+MEMBER	(TRANS-RXN1FV3-42 YARROWIA "<i>cis</i>-aconitate<sub>[mitochondrial lumen]</sub> + (<i>S</i>)-malate<sub>[cytosol]</sub>  &rarr;  (<i>S</i>)-malate<sub>[mitochondrial lumen]</sub> + <i>cis</i>-aconitate<sub>[cytosol]</sub>" NIL)
+MEMBER	(PWY-5750-1 YARROWIA "itaconate biosynthesis" NIL)
+//
+ID	87
+NAME	>Table 2
+PREV	86
+TIMESTAMP	3728102479
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN OTA "2 3-phospho-D-glycerate + 2 H<SUP>+</SUP>  &larr;  D-ribulose-1,5-bisphosphate + CO<SUB>2</SUB> + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12383 OTA "2 a 1,2-diacyl-<i>sn</i>-glycerol  &harr;  a triacyl-<i>sn</i>-glycerol + a 2-acylglycerol" NIL)
+MEMBER	(PSII-RXN OTA "2 a plastoquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB> + oxygen<SUB>[in]</SUB>  &larr;  h&nu; + 2 a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(1.18.1.2-RXN OTA "2 a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADP<sup>+</sup><SUB>[in]</SUB> + H<SUP>+</SUP><SUB>[in]</SUB>  &harr;  2 an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADPH<SUB>[in]</SUB>" NIL)
+MEMBER	(PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN OTA "2 an oxidized plastocyanin<SUB>[in]</SUB> + a plastoquinol<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>  &rarr;  2 a reduced plastocyanin<SUB>[in]</SUB> + a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(PHOSGLYPHOS-RXN OTA "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(1.1.1.8-RXN OTA "<i>sn</i>-glycerol 3-phosphate + NAD<sup>+</sup>  &larr;  glycerone phosphate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-15745 OTA "<i>sn</i>-glycerol 3-phosphate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  glycerone phosphate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(PHOSPHATIDATE-PHOSPHATASE-RXN OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<sub>2</sub>O  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol + phosphate" NIL)
+MEMBER	(RXN-1381 OTA "a long-chain acyl-CoA + <i>sn</i>-glycerol 3-phosphate  &rarr;  a 1-acyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1623 OTA "a long-chain acyl-CoA + a 1-acyl-<i>sn</i>-glycerol 3-phosphate  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1641 OTA "a phosphatidylcholine + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(RXN0-1132 OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine + NAD<sup>+</sup>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-1133 OTA "acetyl-CoA + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine  &larr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + coenzyme A" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN OTA "an acyl-CoA + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + coenzyme A" NIL)
+MEMBER	(RXN-15479 OTA "an oxidized plastocyanin<SUB>[in]</SUB> + a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>  &larr;  h&nu; + a reduced plastocyanin<SUB>[in]</SUB> + an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12959 OTA "CTP + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  CDP + a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(2TRANSKETO-RXN OTA "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN OTA "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(1.2.1.13-RXN OTA "D-glyceraldehyde 3-phosphate + NADP<sup>+</sup> + phosphate  &larr;  3-phospho-D-glyceroyl-phosphate + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(RIB5PISOM-RXN OTA "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN OTA "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(PHOSPHORIBULOKINASE-RXN OTA "D-ribulose 5-phosphate + ATP  &rarr;  D-ribulose-1,5-bisphosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(SEDOHEPTULOSE-BISPHOSPHATASE-RXN OTA "D-sedoheptulose-1,7-bisphosphate + H<sub>2</sub>O  &rarr;  D-sedoheptulose 7-phosphate + phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN OTA "fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(F16BDEPHOS-RXN OTA "fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(SEDOBISALDOL-RXN OTA "glycerone phosphate + D-erythrose 4-phosphate  &rarr;  D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(RXN0-1134 OTA "pyruvate + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+//
+ID	90
+NAME	Central_Pathway_Reactions>Table 1
+PREV	81
+TIMESTAMP	3728310203
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:ENZ-RXNS
+SORT-KEY	:PWYS
+SORT-DESCENDING	T
+COLUMN-KEY	GIBBS-0
+MEMBER	(NAD OTA "NAD<sup>+</sup>" NIL)
+MEMBER	(FUM OTA "fumarate" NIL)
+MEMBER	(|ETR-Quinols| OTA "an electron-transfer quinol" NIL)
+MEMBER	(NADPH OTA "NADPH" NIL)
+MEMBER	(THREO-DS-ISO-CITRATE OTA "D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(CIS-ACONITATE OTA "<i>cis</i>-aconitate" NIL)
+MEMBER	(CIT OTA "citrate" NIL)
+MEMBER	(SUC-COA OTA "succinyl-CoA" NIL)
+MEMBER	(OXYGEN-MOLECULE OTA "oxygen" NIL)
+MEMBER	(DIHYDROXY-ACETONE-PHOSPHATE OTA "glycerone phosphate" NIL)
+MEMBER	(FRUCTOSE-6P OTA "&beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(D-RIBULOSE-15-P2 OTA "D-ribulose-1,5-bisphosphate" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-acetylDHlipoyl| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-dihydrolipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-lipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine" NIL)
+MEMBER	(CDP OTA "CDP" NIL)
+MEMBER	(|Plastoquinols| OTA "a plastoquinol" NIL)
+MEMBER	(PLASTOQUINONE OTA "a plastoquinone" NIL)
+MEMBER	(|Light| OTA "h&nu;" NIL)
+MEMBER	(|2-Lysophosphatidylcholines| OTA "a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(|Triacylglycerols| OTA "a triacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(PHOSPHATIDYLCHOLINE OTA "a phosphatidylcholine" NIL)
+MEMBER	(L-PHOSPHATIDATE OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(D-6-P-GLUCONO-DELTA-LACTONE OTA "6-phospho D-glucono-1,5-lactone" NIL)
+MEMBER	(CPD-2961 OTA "D-gluconate 6-phosphate" NIL)
+MEMBER	(RIBULOSE-5P OTA "D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBOSE-5P OTA "D-ribose 5-phosphate" NIL)
+MEMBER	(ERYTHROSE-4P OTA "D-erythrose 4-phosphate" NIL)
+MEMBER	(XYLULOSE-5-PHOSPHATE OTA "D-xylulose 5-phosphate" NIL)
+MEMBER	(|Long-Chain-Acyl-CoAs| OTA "a long-chain acyl-CoA" NIL)
+MEMBER	(GAP OTA "D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(PYRUVATE OTA "pyruvate" NIL)
+MEMBER	(G3P OTA "3-phospho-D-glycerate" NIL)
+MEMBER	(CO-A OTA "coenzyme A" NIL)
+MEMBER	(NADH OTA "NADH" NIL)
+MEMBER	(ATP OTA "ATP" NIL)
+MEMBER	(|Pi| OTA "phosphate" NIL)
+MEMBER	(2-KETOGLUTARATE OTA "2-oxoglutarate" NIL)
+MEMBER	(OXALACETIC_ACID OTA "oxaloacetate" NIL)
+MEMBER	(DPG OTA "3-phospho-D-glyceroyl-phosphate" NIL)
+MEMBER	(FRUCTOSE-16-DIPHOSPHATE OTA "fructose 1,6-bisphosphate" NIL)
+MEMBER	(2-PG OTA "2-phospho-D-glycerate" NIL)
+MEMBER	(|D-glucopyranose-6-phosphate| OTA "D-glucopyranose 6-phosphate" NIL)
+MEMBER	(|ETR-Quinones| OTA "an electron-transfer quinone" NIL)
+MEMBER	(ADP OTA "ADP" NIL)
+MEMBER	(ACETYL-COA OTA "acetyl-CoA" NIL)
+MEMBER	(CPD-409 OTA "a 2-acylglycerol" NIL)
+MEMBER	(ACYL-SN-GLYCEROL-3P OTA "a 1-acyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(ACYL-COA OTA "an acyl-CoA" NIL)
+MEMBER	(DIACYLGLYCEROL OTA "a 1,2-diacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(PHOSPHO-ENOL-PYRUVATE OTA "phospho<i>enol</i>pyruvate" NIL)
+MEMBER	(CARBON-DIOXIDE OTA "CO<SUB>2</SUB>" NIL)
+MEMBER	(WATER OTA "H<sub>2</sub>O" NIL)
+MEMBER	(CTP OTA "CTP" NIL)
+MEMBER	(NADP OTA "NADP<sup>+</sup>" NIL)
+MEMBER	(GLYCEROL-3P OTA "<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-7-P OTA "D-sedoheptulose 7-phosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-1-7-P2 OTA "D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(MAL OTA "(<i>S</i>)-malate" NIL)
+MEMBER	(SUC OTA "succinate" NIL)
+MEMBER	(PROTON OTA "H<SUP>+</SUP>" NIL)
+MEMBER	(AMP OTA "AMP" NIL)
+//
+ID	73
+NAME	Table 3
+PREV	12
+TIMESTAMP	3727026700
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+//
+ID	28
+NAME	Table 4
+TIMESTAMP	3718494921
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+//
+ID	86
+NAME	Table 2-1-1
+TIMESTAMP	3728102332
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY1IZ1-1 OTA "Central Pathway" NIL)
+//
+ID	93
+NAME	GLY_PPP_TCA>Table 2-1
+PREV	92
+TIMESTAMP	3728322049
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY1FV1-3 OTA "PPP_Gly_TCA" NIL)
+//
+ID	81
+NAME	Chemical_potential_Centeral_metabolism
+PREV	31
+TIMESTAMP	3728079725
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:RXN-SUBSTRATES
+COLUMN-KEY	GIBBS-0
+MEMBER	(FRUCTOSE-6P OTA "&beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(MAL OTA "(<i>S</i>)-malate" NIL)
+MEMBER	(2-KETOGLUTARATE OTA "2-oxoglutarate" NIL)
+MEMBER	(2-PG OTA "2-phospho-D-glycerate" NIL)
+MEMBER	(G3P OTA "3-phospho-D-glycerate" NIL)
+MEMBER	(DPG OTA "3-phospho-D-glyceroyl-phosphate" NIL)
+MEMBER	(D-6-P-GLUCONO-DELTA-LACTONE OTA "6-phospho D-glucono-1,5-lactone" NIL)
+MEMBER	(CIS-ACONITATE OTA "<i>cis</i>-aconitate" NIL)
+MEMBER	(GLYCEROL-3P OTA "<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(DIACYLGLYCEROL OTA "a 1,2-diacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(L-PHOSPHATIDATE OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(|2-Lysophosphatidylcholines| OTA "a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(ACYL-SN-GLYCEROL-3P OTA "a 1-acyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(CPD-409 OTA "a 2-acylglycerol" NIL)
+MEMBER	(|Long-Chain-Acyl-CoAs| OTA "a long-chain acyl-CoA" NIL)
+MEMBER	(PHOSPHATIDYLCHOLINE OTA "a phosphatidylcholine" NIL)
+MEMBER	(|Plastoquinols| OTA "a plastoquinol" NIL)
+MEMBER	(PLASTOQUINONE OTA "a plastoquinone" NIL)
+MEMBER	(|Reduced-ferredoxins| OTA "a reduced ferredoxin [iron-sulfur] cluster" NIL)
+MEMBER	(|Plastocyanin-Reduced| OTA "a reduced plastocyanin" NIL)
+MEMBER	(|Triacylglycerols| OTA "a triacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-acetylDHlipoyl| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-dihydrolipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-lipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine" NIL)
+MEMBER	(ACETYL-COA OTA "acetyl-CoA" NIL)
+MEMBER	(ADP OTA "ADP" NIL)
+MEMBER	(AMP OTA "AMP" NIL)
+MEMBER	(ACYL-COA OTA "an acyl-CoA" NIL)
+MEMBER	(|ETR-Quinols| OTA "an electron-transfer quinol" NIL)
+MEMBER	(|ETR-Quinones| OTA "an electron-transfer quinone" NIL)
+MEMBER	(|Oxidized-ferredoxins| OTA "an oxidized ferredoxin [iron-sulfur] cluster" NIL)
+MEMBER	(|Oxidized-Plastocyanins| OTA "an oxidized plastocyanin" NIL)
+MEMBER	(ATP OTA "ATP" NIL)
+MEMBER	(CDP OTA "CDP" NIL)
+MEMBER	(CIT OTA "citrate" NIL)
+MEMBER	(CARBON-DIOXIDE OTA "CO<SUB>2</SUB>" NIL)
+MEMBER	(CO-A OTA "coenzyme A" NIL)
+MEMBER	(CTP OTA "CTP" NIL)
+MEMBER	(THREO-DS-ISO-CITRATE OTA "D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(ERYTHROSE-4P OTA "D-erythrose 4-phosphate" NIL)
+MEMBER	(CPD-2961 OTA "D-gluconate 6-phosphate" NIL)
+MEMBER	(|D-glucopyranose-6-phosphate| OTA "D-glucopyranose 6-phosphate" NIL)
+MEMBER	(GAP OTA "D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RIBOSE-5P OTA "D-ribose 5-phosphate" NIL)
+MEMBER	(RIBULOSE-5P OTA "D-ribulose 5-phosphate" NIL)
+MEMBER	(D-RIBULOSE-15-P2 OTA "D-ribulose-1,5-bisphosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-7-P OTA "D-sedoheptulose 7-phosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-1-7-P2 OTA "D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(XYLULOSE-5-PHOSPHATE OTA "D-xylulose 5-phosphate" NIL)
+MEMBER	(FRUCTOSE-16-DIPHOSPHATE OTA "fructose 1,6-bisphosphate" NIL)
+MEMBER	(FUM OTA "fumarate" NIL)
+MEMBER	(DIHYDROXY-ACETONE-PHOSPHATE OTA "glycerone phosphate" NIL)
+MEMBER	(|Light| OTA "h&nu;" NIL)
+MEMBER	(WATER OTA "H<sub>2</sub>O" NIL)
+MEMBER	(PROTON OTA "H<SUP>+</SUP>" NIL)
+MEMBER	(NAD OTA "NAD<sup>+</sup>" NIL)
+MEMBER	(NADH OTA "NADH" NIL)
+MEMBER	(NADP OTA "NADP<sup>+</sup>" NIL)
+MEMBER	(NADPH OTA "NADPH" NIL)
+MEMBER	(OXALACETIC_ACID OTA "oxaloacetate" NIL)
+MEMBER	(OXYGEN-MOLECULE OTA "oxygen" NIL)
+MEMBER	(|Pi| OTA "phosphate" NIL)
+MEMBER	(PHOSPHO-ENOL-PYRUVATE OTA "phospho<i>enol</i>pyruvate" NIL)
+MEMBER	(PYRUVATE OTA "pyruvate" NIL)
+MEMBER	(SUC OTA "succinate" NIL)
+MEMBER	(SUC-COA OTA "succinyl-CoA" NIL)
+//
+ID	40
+NAME	Table 5
+TIMESTAMP	3722194831
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-6333 OTA "acetaldehyde biosynthesis I" NIL)
+MEMBER	(PWY-6144 OTA "CMP-<i>N</i>-glycoloylneuraminate biosynthesis" NIL)
+MEMBER	(PWY-66 OTA "GDP-L-fucose biosynthesis I (from GDP-D-mannose)" NIL)
+MEMBER	(PWY-6 OTA "GDP-L-fucose biosynthesis II (from L-fucose)" NIL)
+MEMBER	(PWY-5659 OTA "GDP-mannose biosynthesis" NIL)
+MEMBER	(GLUCONEO-PWY OTA "gluconeogenesis I" NIL)
+MEMBER	(GLYCOGENSYNTH-PWY OTA "glycogen biosynthesis I (from ADP-D-Glucose)" NIL)
+MEMBER	(MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS OTA "protein <i>N</i>-glycosylation (eukaryotic, high mannose)" NIL)
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+MEMBER	(SUCSYN-PWY OTA "sucrose biosynthesis I (from photosynthesis)" NIL)
+MEMBER	(PWY-7238 OTA "sucrose biosynthesis II" NIL)
+MEMBER	(PWY-7344 OTA "UDP-&alpha;-D-galactose biosynthesis" NIL)
+MEMBER	(PWY-4821 OTA "UDP-&alpha;-D-xylose biosynthesis" NIL)
+MEMBER	(PWY-3261 OTA "UDP-&beta;-L-rhamnose biosynthesis" NIL)
+MEMBER	(UDPNACETYLGALSYN-PWY OTA "UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II" NIL)
+//
+ID	21
+NAME	PPP_glycolysis_TCA
+PREV	19
+TIMESTAMP	3713049905
+DESCRIPTION	Pentos phosphate pathway
+PROTECT	NIL
+TRANSFORM-KEY	:PWY-RXNS
+COLUMN-KEY	:GENES
+COLUMN-KEY	IN-PATHWAY
+MEMBER	(6PFRUCTPHOS-RXN ECOLI "&beta;-D-fructofuranose 6-phosphate + ATP  &rarr;  ADP + &beta;-D-fructose 1,6-bisphosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(FUMHYDR-RXN ECOLI "(<i>S</i>)-malate  &harr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEHYDROGENASE-ACCEPTOR-RXN ECOLI "(<i>S</i>)-malate + an electron-transfer quinone<SUB>[inner membrane]</SUB>  &rarr;  oxaloacetate + an electron-transfer quinol<SUB>[inner membrane]</SUB>" NIL)
+MEMBER	(MALATE-DEH-RXN ECOLI "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN ECOLI "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(RXN-15513 ECOLI "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(3PGAREARR-RXN ECOLI "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(2PGADEHYDRAT-RXN ECOLI "2-phospho-D-glycerate  &harr;  phospho<i>enol</i>pyruvate + H<sub>2</sub>O" NIL)
+MEMBER	(PHOSGLYPHOS-RXN ECOLI "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(6PGLUCONOLACT-RXN ECOLI "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(ACONITATEHYDR-RXN ECOLI "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(MALSYN-RXN ECOLI "acetyl-CoA + glyoxylate + H<sub>2</sub>O  &rarr;  (<i>S</i>)-malate + coenzyme A + H<SUP>+</SUP>" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN ECOLI "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(ISOCIT-CLEAV-RXN ECOLI "D-<i>threo</i>-isocitrate  &harr;  glyoxylate + succinate" NIL)
+MEMBER	(ISOCITDEH-RXN ECOLI "D-<i>threo</i>-isocitrate + NADP<sup>+</sup>  &harr;  2-oxoglutarate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(2TRANSKETO-RXN ECOLI "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RXN-9952 ECOLI "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(PGLUCISOM-RXN ECOLI "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN ECOLI "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN ECOLI "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN ECOLI "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RIB5PISOM-RXN ECOLI "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN ECOLI "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(TRANSALDOL-RXN ECOLI "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN ECOLI "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN ECOLI "&beta;-D-fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(F16BDEPHOS-RXN ECOLI "&beta;-D-fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(CITSYN-RXN ECOLI "oxaloacetate + acetyl-CoA + H<sub>2</sub>O  &rarr;  citrate + coenzyme A + H<SUP>+</SUP>" NIL)
+MEMBER	(PEPDEPHOS-RXN ECOLI "pyruvate + ATP  &larr;  ADP + phospho<i>enol</i>pyruvate + H<SUP>+</SUP>" NIL)
+MEMBER	(PEPSYNTH-RXN ECOLI "pyruvate + ATP + H<sub>2</sub>O  &rarr;  phospho<i>enol</i>pyruvate + AMP + phosphate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN ECOLI "succinate + a ubiquinone<SUB>[inner membrane]</SUB>  &rarr;  fumarate + an ubiquinol<SUB>[inner membrane]</SUB>" NIL)
+MEMBER	(SUCCCOASYN-RXN ECOLI "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+//
+ID	31
+NAME	>Table 4-1
+TIMESTAMP	3718495557
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(FUMHYDR-RXN OTA "(<i>S</i>)-malate  &larr;  fumarate + H<sub>2</sub>O" NIL)
+MEMBER	(MALATE-DEH-RXN OTA "(<i>S</i>)-malate + NAD<sup>+</sup>  &harr;  oxaloacetate + NADH" NIL)
+MEMBER	(RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN OTA "2 3-phospho-D-glycerate + 2 H<SUP>+</SUP>  &larr;  D-ribulose-1,5-bisphosphate + CO<SUB>2</SUB> + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12383 OTA "2 a 1,2-diacyl-<i>sn</i>-glycerol  &harr;  a triacyl-<i>sn</i>-glycerol + a 2-acylglycerol" NIL)
+MEMBER	(PSII-RXN OTA "2 a plastoquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB> + oxygen<SUB>[in]</SUB>  &larr;  h&nu; + 2 a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(1.18.1.2-RXN OTA "2 a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADP<sup>+</sup><SUB>[in]</SUB> + H<SUP>+</SUP><SUB>[in]</SUB>  &harr;  2 an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB> + NADPH<SUB>[in]</SUB>" NIL)
+MEMBER	(PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN OTA "2 an oxidized plastocyanin<SUB>[in]</SUB> + a plastoquinol<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>  &rarr;  2 a reduced plastocyanin<SUB>[in]</SUB> + a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(2OXOGLUTARATEDEH-RXN OTA "2-oxoglutarate + coenzyme A + NAD<sup>+</sup>  &rarr;  succinyl-CoA + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(RXN-15513 OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(3PGAREARR-RXN OTA "2-phospho-D-glycerate  &harr;  3-phospho-D-glycerate" NIL)
+MEMBER	(2PGADEHYDRAT-RXN OTA "2-phospho-D-glycerate  &harr;  phospho<i>enol</i>pyruvate + H<sub>2</sub>O" NIL)
+MEMBER	(PHOSGLYPHOS-RXN OTA "3-phospho-D-glycerate + ATP  &harr;  3-phospho-D-glyceroyl-phosphate + ADP" NIL)
+MEMBER	(6PGLUCONOLACT-RXN OTA "6-phospho D-glucono-1,5-lactone + H<sub>2</sub>O  &rarr;  D-gluconate 6-phosphate" NIL)
+MEMBER	(ACONITATEHYDR-RXN OTA "<i>cis</i>-aconitate + H<sub>2</sub>O  &harr;  D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(1.1.1.8-RXN OTA "<i>sn</i>-glycerol 3-phosphate + NAD<sup>+</sup>  &larr;  glycerone phosphate + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-15745 OTA "<i>sn</i>-glycerol 3-phosphate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  glycerone phosphate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+MEMBER	(PHOSPHATIDATE-PHOSPHATASE-RXN OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<sub>2</sub>O  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol + phosphate" NIL)
+MEMBER	(RXN-1381 OTA "a long-chain acyl-CoA + <i>sn</i>-glycerol 3-phosphate  &rarr;  a 1-acyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1623 OTA "a long-chain acyl-CoA + a 1-acyl-<i>sn</i>-glycerol 3-phosphate  &rarr;  a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + coenzyme A" NIL)
+MEMBER	(RXN-1641 OTA "a phosphatidylcholine + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(RXN0-1132 OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine + NAD<sup>+</sup>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + NADH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN0-1133 OTA "acetyl-CoA + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine  &larr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + coenzyme A" NIL)
+MEMBER	(CITSYN-RXN OTA "acetyl-CoA + oxaloacetate + H<sub>2</sub>O  &rarr;  citrate + coenzyme A" NIL)
+MEMBER	(DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN OTA "an acyl-CoA + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  a triacyl-<i>sn</i>-glycerol + coenzyme A" NIL)
+MEMBER	(RXN-15479 OTA "an oxidized plastocyanin<SUB>[in]</SUB> + a reduced ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>  &larr;  h&nu; + a reduced plastocyanin<SUB>[in]</SUB> + an oxidized ferredoxin [iron-sulfur] cluster<SUB>[out]</SUB>" NIL)
+MEMBER	(6PFRUCTPHOS-RXN OTA "ATP + &beta;-D-fructofuranose 6-phosphate  &rarr;  ADP + fructose 1,6-bisphosphate" NIL)
+MEMBER	(ACONITATEDEHYDR-RXN OTA "citrate  &harr;  <i>cis</i>-aconitate + H<sub>2</sub>O" NIL)
+MEMBER	(RXN-12959 OTA "CTP + a 1,2-diacyl-<i>sn</i>-glycerol  &rarr;  CDP + a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(ISOCITRATE-DEHYDROGENASE-NAD+-RXN OTA "D-<i>threo</i>-isocitrate + NAD<sup>+</sup>  &rarr;  2-oxoglutarate + CO<SUB>2</SUB> + NADH" NIL)
+MEMBER	(2TRANSKETO-RXN OTA "D-erythrose 4-phosphate + D-xylulose 5-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RXN-9952 OTA "D-gluconate 6-phosphate + NADP<sup>+</sup>  &rarr;  D-ribulose 5-phosphate + CO<SUB>2</SUB> + NADPH" NIL)
+MEMBER	(PGLUCISOM-RXN OTA "D-glucopyranose 6-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(GLU6PDEHYDROG-RXN OTA "D-glucopyranose 6-phosphate + NADP<sup>+</sup>  &rarr;  6-phospho D-glucono-1,5-lactone + NADPH" NIL)
+MEMBER	(TRIOSEPISOMERIZATION-RXN OTA "D-glyceraldehyde 3-phosphate  &harr;  glycerone phosphate" NIL)
+MEMBER	(GAPOXNPHOSPHN-RXN OTA "D-glyceraldehyde 3-phosphate + NAD<sup>+</sup> + phosphate  &harr;  3-phospho-D-glyceroyl-phosphate + NADH" NIL)
+MEMBER	(1.2.1.13-RXN OTA "D-glyceraldehyde 3-phosphate + NADP<sup>+</sup> + phosphate  &larr;  3-phospho-D-glyceroyl-phosphate + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(RIB5PISOM-RXN OTA "D-ribose 5-phosphate  &harr;  D-ribulose 5-phosphate" NIL)
+MEMBER	(RIBULP3EPIM-RXN OTA "D-ribulose 5-phosphate  &harr;  D-xylulose 5-phosphate" NIL)
+MEMBER	(PHOSPHORIBULOKINASE-RXN OTA "D-ribulose 5-phosphate + ATP  &rarr;  D-ribulose-1,5-bisphosphate + ADP + H<SUP>+</SUP>" NIL)
+MEMBER	(TRANSALDOL-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  &beta;-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate" NIL)
+MEMBER	(1TRANSKETO-RXN OTA "D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  &harr;  D-ribose 5-phosphate + D-xylulose 5-phosphate" NIL)
+MEMBER	(SEDOHEPTULOSE-BISPHOSPHATASE-RXN OTA "D-sedoheptulose-1,7-bisphosphate + H<sub>2</sub>O  &rarr;  D-sedoheptulose 7-phosphate + phosphate" NIL)
+MEMBER	(F16ALDOLASE-RXN OTA "fructose 1,6-bisphosphate  &harr;  glycerone phosphate + D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(F16BDEPHOS-RXN OTA "fructose 1,6-bisphosphate + H<sub>2</sub>O  &rarr;  &beta;-D-fructofuranose 6-phosphate + phosphate" NIL)
+MEMBER	(SEDOBISALDOL-RXN OTA "glycerone phosphate + D-erythrose 4-phosphate  &rarr;  D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(RXN0-1134 OTA "pyruvate + a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &rarr;  a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(PEPDEPHOS-RXN OTA "pyruvate + ATP  &larr;  phospho<i>enol</i>pyruvate + ADP" NIL)
+MEMBER	(PEPSYNTH-RXN OTA "pyruvate + ATP + H<sub>2</sub>O  &rarr;  phospho<i>enol</i>pyruvate + AMP + phosphate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(SUCCCOASYN-RXN OTA "succinate + ATP + coenzyme A  &harr;  succinyl-CoA + ADP + phosphate" NIL)
+MEMBER	(RXN-14971 OTA "succinate<SUB>[in]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB>  &rarr;  fumarate<SUB>[in]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>" NIL)
+//
+ID	88
+NAME	>Table 2-1-1-1
+PREV	51
+TIMESTAMP	3728108299
+DESCRIPTION	
+PROTECT	NIL
+COLUMN-KEY	:PWYS
+COLUMN-KEY	REACTION-DIRECTION
+COLUMN-KEY	REACTION-LIST
+COLUMN-KEY	SUBSTRATES
+MEMBER	(TRANS-RXN1FV3-42 YARROWIA "<i>cis</i>-aconitate<sub>[mitochondrial lumen]</sub> + (<i>S</i>)-malate<sub>[cytosol]</sub>  &rarr;  (<i>S</i>)-malate<sub>[mitochondrial lumen]</sub> + <i>cis</i>-aconitate<sub>[cytosol]</sub>" NIL)
+MEMBER	(GLYCOLYSIS-VARIANTS OTA "Glycolysis" NIL)
+MEMBER	(PWY-5750-1 YARROWIA "itaconate biosynthesis" NIL)
+//
+ID	80
+NAME	>Table 1-3-1
+PREV	10
+TIMESTAMP	3728079491
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:RXN-SUBSTRATES
+MEMBER	(FRUCTOSE-6P OTA "&beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(MAL OTA "(<i>S</i>)-malate" NIL)
+MEMBER	(2-KETOGLUTARATE OTA "2-oxoglutarate" NIL)
+MEMBER	(2-PG OTA "2-phospho-D-glycerate" NIL)
+MEMBER	(G3P OTA "3-phospho-D-glycerate" NIL)
+MEMBER	(DPG OTA "3-phospho-D-glyceroyl-phosphate" NIL)
+MEMBER	(D-6-P-GLUCONO-DELTA-LACTONE OTA "6-phospho D-glucono-1,5-lactone" NIL)
+MEMBER	(CIS-ACONITATE OTA "<i>cis</i>-aconitate" NIL)
+MEMBER	(GLYCEROL-3P OTA "<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(DIACYLGLYCEROL OTA "a 1,2-diacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(L-PHOSPHATIDATE OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(|2-Lysophosphatidylcholines| OTA "a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(ACYL-SN-GLYCEROL-3P OTA "a 1-acyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(CPD-409 OTA "a 2-acylglycerol" NIL)
+MEMBER	(|Long-Chain-Acyl-CoAs| OTA "a long-chain acyl-CoA" NIL)
+MEMBER	(PHOSPHATIDYLCHOLINE OTA "a phosphatidylcholine" NIL)
+MEMBER	(|Plastoquinols| OTA "a plastoquinol" NIL)
+MEMBER	(PLASTOQUINONE OTA "a plastoquinone" NIL)
+MEMBER	(|Reduced-ferredoxins| OTA "a reduced ferredoxin [iron-sulfur] cluster" NIL)
+MEMBER	(|Plastocyanin-Reduced| OTA "a reduced plastocyanin" NIL)
+MEMBER	(|Triacylglycerols| OTA "a triacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-acetylDHlipoyl| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-dihydrolipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-lipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine" NIL)
+MEMBER	(ACETYL-COA OTA "acetyl-CoA" NIL)
+MEMBER	(ADP OTA "ADP" NIL)
+MEMBER	(AMP OTA "AMP" NIL)
+MEMBER	(ACYL-COA OTA "an acyl-CoA" NIL)
+MEMBER	(|ETR-Quinols| OTA "an electron-transfer quinol" NIL)
+MEMBER	(|ETR-Quinones| OTA "an electron-transfer quinone" NIL)
+MEMBER	(|Oxidized-ferredoxins| OTA "an oxidized ferredoxin [iron-sulfur] cluster" NIL)
+MEMBER	(|Oxidized-Plastocyanins| OTA "an oxidized plastocyanin" NIL)
+MEMBER	(ATP OTA "ATP" NIL)
+MEMBER	(CDP OTA "CDP" NIL)
+MEMBER	(CIT OTA "citrate" NIL)
+MEMBER	(CARBON-DIOXIDE OTA "CO<SUB>2</SUB>" NIL)
+MEMBER	(CO-A OTA "coenzyme A" NIL)
+MEMBER	(CTP OTA "CTP" NIL)
+MEMBER	(THREO-DS-ISO-CITRATE OTA "D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(ERYTHROSE-4P OTA "D-erythrose 4-phosphate" NIL)
+MEMBER	(CPD-2961 OTA "D-gluconate 6-phosphate" NIL)
+MEMBER	(|D-glucopyranose-6-phosphate| OTA "D-glucopyranose 6-phosphate" NIL)
+MEMBER	(GAP OTA "D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RIBOSE-5P OTA "D-ribose 5-phosphate" NIL)
+MEMBER	(RIBULOSE-5P OTA "D-ribulose 5-phosphate" NIL)
+MEMBER	(D-RIBULOSE-15-P2 OTA "D-ribulose-1,5-bisphosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-7-P OTA "D-sedoheptulose 7-phosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-1-7-P2 OTA "D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(XYLULOSE-5-PHOSPHATE OTA "D-xylulose 5-phosphate" NIL)
+MEMBER	(FRUCTOSE-16-DIPHOSPHATE OTA "fructose 1,6-bisphosphate" NIL)
+MEMBER	(FUM OTA "fumarate" NIL)
+MEMBER	(DIHYDROXY-ACETONE-PHOSPHATE OTA "glycerone phosphate" NIL)
+MEMBER	(|Light| OTA "h&nu;" NIL)
+MEMBER	(WATER OTA "H<sub>2</sub>O" NIL)
+MEMBER	(PROTON OTA "H<SUP>+</SUP>" NIL)
+MEMBER	(NAD OTA "NAD<sup>+</sup>" NIL)
+MEMBER	(NADH OTA "NADH" NIL)
+MEMBER	(NADP OTA "NADP<sup>+</sup>" NIL)
+MEMBER	(NADPH OTA "NADPH" NIL)
+MEMBER	(OXALACETIC_ACID OTA "oxaloacetate" NIL)
+MEMBER	(OXYGEN-MOLECULE OTA "oxygen" NIL)
+MEMBER	(|Pi| OTA "phosphate" NIL)
+MEMBER	(PHOSPHO-ENOL-PYRUVATE OTA "phospho<i>enol</i>pyruvate" NIL)
+MEMBER	(PYRUVATE OTA "pyruvate" NIL)
+MEMBER	(SUC OTA "succinate" NIL)
+MEMBER	(SUC-COA OTA "succinyl-CoA" NIL)
+//
+ID	60
+NAME	mitrochondrian reactions
+PREV	59
+TIMESTAMP	3725996021
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:ENZ-RXNS
+MEMBER	(RXN-15829 OTA_JGI "2 a reduced CycA1 cytochrome<SUB>[out]</SUB> + a ubiquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB>  &rarr;  2 an oxidized CycA1 cytochrome<SUB>[out]</SUB> + an ubiquinol<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>" NIL)
+MEMBER	(RXN-14107 OTA_JGI "2 an oxidized <i>c</i>-type cytochrome<SUB>[out]</SUB> + a menaquinol<SUB>[membrane]</SUB>  &rarr;  2 a reduced <i>c</i>-type cytochrome<SUB>[out]</SUB> + a menaquinone<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(RXN-15816 OTA_JGI "2 an oxidized <i>c</i>-type cytochrome<SUB>[out]</SUB> + an electron-transfer quinol<SUB>[membrane]</SUB>  &rarr;  2 a reduced <i>c</i>-type cytochrome<SUB>[out]</SUB> + an electron-transfer quinone<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[in]</SUB>" NIL)
+MEMBER	(1.10.2.2-RXN OTA_JGI "2 an oxidized <i>c</i>-type cytochrome<SUB>[out]</SUB> + an ubiquinol<SUB>[membrane]</SUB>  &rarr;  2 a reduced <i>c</i>-type cytochrome<SUB>[out]</SUB> + a ubiquinone<SUB>[membrane]</SUB> + 2 H<SUP>+</SUP><SUB>[out]</SUB>" NIL)
+MEMBER	(CYTOCHROME-C-OXIDASE-RXN OTA_JGI "4 a reduced <i>c</i>-type cytochrome<SUB>[out]</SUB> + oxygen<SUB>[in]</SUB> + 8 H<SUP>+</SUP><SUB>[in]</SUB>  &rarr;  4 an oxidized <i>c</i>-type cytochrome<SUB>[out]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(RXN-15830 OTA_JGI "4 a reduced <i>c</i>-type cytochrome<SUB>[out]</SUB> + oxygen<SUB>[in]</SUB> + 8 H<SUP>+</SUP><SUB>[in]</SUB>  &rarr;  4 an oxidized <i>c</i>-type cytochrome<SUB>[out]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(HOLOCYTOCHROME-C-SYNTHASE-RXN OTA_JGI "a <i>c</i>-type cytochrome  &harr;  heme <i>c</i> + an <i>apo</i>-[<i>c</i>-type cytochrome]" NIL)
+MEMBER	(3.4.24.64-RXN OTA_JGI "a mitochondrial preprotein including a mitochondrial targeting sequence + H<sub>2</sub>O  &rarr;  a fully-processed mitochondrial protein + a peptide" NIL)
+MEMBER	(RXN0-5330 OTA_JGI "a ubiquinone<SUB>[membrane]</SUB> + NADH<SUB>[in]</SUB> + H<SUP>+</SUP><SUB>[in]</SUB>  &rarr;  an ubiquinol<SUB>[membrane]</SUB> + NAD<sup>+</sup><SUB>[in]</SUB>" NIL)
+MEMBER	(ATPSYN-RXN OTA_JGI "ADP + phosphate + 4 H<SUP>+</SUP><sub>[out]</sub>  &harr;  ATP + H<sub>2</sub>O + 3 H<SUP>+</SUP><sub>[in]</sub>" NIL)
+MEMBER	(INORGPYROPHOSPHAT-RXN OTA_JGI "diphosphate + H<sub>2</sub>O  &rarr;  2 phosphate + H<SUP>+</SUP>" NIL)
+MEMBER	(GCVP-RXN OTA_JGI "glycine + a [glycine-cleavage complex H protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine + H<SUP>+</SUP>  &harr;  a [glycine-cleavage complex H protein] <i>N<sup>6</sup></i>-aminomethyldihydrolipoyl-L-lysine + CO<SUB>2</SUB>" NIL)
+MEMBER	(NADH-DEHYDROGENASE-RXN OTA_JGI "NADH + an oxidized electron acceptor + H<SUP>+</SUP>  &harr;  NAD<sup>+</sup> + a reduced electron acceptor" NIL)
+MEMBER	(NADH-DEHYDROG-A-RXN OTA_JGI "NADH<SUB>[in]</SUB> + a ubiquinone<SUB>[membrane]</SUB> + 5 H<SUP>+</SUP><SUB>[in]</SUB>  &harr;  NAD<sup>+</sup><SUB>[in]</SUB> + an ubiquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB>" NIL)
+MEMBER	(THYM-PHOSPH-RXN OTA_JGI "thymidine + phosphate  &harr;  2-deoxy-&alpha;-D-ribose 1-phosphate + thymine" NIL)
+//
+ID	64
+NAME	Plastid reactions
+PREV	63
+TIMESTAMP	3725996185
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:ENZ-RXNS
+MEMBER	(RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN OTA_JGI "2 3-phospho-D-glycerate + 2 H<SUP>+</SUP>  &larr;  D-ribulose-1,5-bisphosphate + CO<SUB>2</SUB> + H<sub>2</sub>O" NIL)
+MEMBER	(PSII-RXN OTA_JGI "2 a plastoquinol<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[in]</SUB> + oxygen<SUB>[in]</SUB>  &larr;  h&nu; + 2 a plastoquinone<SUB>[membrane]</SUB> + 4 H<SUP>+</SUP><SUB>[out]</SUB> + 2 H<sub>2</sub>O<SUB>[in]</SUB>" NIL)
+MEMBER	(RXN-5285 OTA_JGI "3,8-divinyl chlorophyllide <i>a</i> + NADP<sup>+</sup>  &larr;  3,8-divinyl protochlorophyllide <i>a</i> + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN1F-10 OTA_JGI "chlorophyllide <i>a</i> + NADP<sup>+</sup>  =  protochlorophyllide <i>a</i> + NADPH + H<SUP>+</SUP>" NIL)
+MEMBER	(RXN-961 OTA_JGI "D-ribulose-1,5-bisphosphate + oxygen  &rarr;  2-phosphoglycolate + 3-phospho-D-glycerate + 2 H<SUP>+</SUP>" NIL)
+MEMBER	(GLUTCYSLIG-RXN OTA_JGI "L-glutamate + L-cysteine + ATP  &rarr;  &gamma;-L-glutamyl-L-cysteine + ADP + phosphate + H<SUP>+</SUP>" NIL)
+//
+ID	63
+NAME	Plastid
+PREV	62
+TIMESTAMP	3725996168
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:GO-ANNOTS
+MEMBER	(G1IZ1-11782-MONOMER OTA_JGI "carbon utilization by fixation of carbon dioxide//chloroplast ribulose bisphosphate carboxylase complex" NIL)
+MEMBER	(G1IZ1-8650-MONOMER OTA_JGI "catalytic activity//electron transport//ferredoxin reductase activity//photosynthesis//plastid" NIL)
+MEMBER	(G1IZ1-8702-MONOMER OTA_JGI "catalytic activity//electron transport//photosynthesis//photosystem I reaction center//plastid" NIL)
+MEMBER	(G1IZ1-8550-MONOMER OTA_JGI "chloroplast" NIL)
+MEMBER	(G1IZ1-11278-MONOMER OTA_JGI "chloroplast//electron transport//heme binding//integral to membrane//metal ion binding//photosynthesis//photosynthesis, light reaction//photosynthetic electron transport chain//photosystem II reaction center//plastid//thylakoid" NIL)
+MEMBER	(G1IZ1-9412-MONOMER OTA_JGI "chloroplast//integral to membrane" NIL)
+MEMBER	(G1IZ1-8807-MONOMER OTA_JGI "chloroplast//integral to membrane" NIL)
+MEMBER	(G1IZ1-10905-MONOMER OTA_JGI "chloroplast//integral to membrane//photosynthesis//thylakoid" NIL)
+MEMBER	(G1IZ1-8455-MONOMER OTA_JGI "Glutamate--cysteine ligase." NIL)
+MEMBER	(G1IZ1-11208-MONOMER OTA_JGI "Protochlorophyllide reductase." NIL)
+MEMBER	(G1IZ1-15152-MONOMER OTA_JGI "Ribulose-bisphosphate carboxylase." NIL)
+MEMBER	(G1IZ1-15153-MONOMER OTA_JGI "Ribulose-bisphosphate carboxylase." NIL)
+MEMBER	(G1IZ1-11247-MONOMER OTA_JGI "Ribulose-bisphosphate carboxylase." NIL)
+//
+ID	54
+NAME	Nucleus Proteins
+PREV	53
+TIMESTAMP	3725995407
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:GO-ANNOTS
+MEMBER	(G1IZ1-8168-MONOMER OTA_JGI "26S proteasome regulatory complex, ATPase RPT1" NIL)
+MEMBER	(G1IZ1-9170-MONOMER OTA_JGI "26S proteasome regulatory complex, ATPase RPT2" NIL)
+MEMBER	(G1IZ1-12177-MONOMER OTA_JGI "26S proteasome regulatory complex, ATPase RPT3" NIL)
+MEMBER	(G1IZ1-9218-MONOMER OTA_JGI "26S proteasome regulatory complex, ATPase RPT4" NIL)
+MEMBER	(G1IZ1-10972-MONOMER OTA_JGI "26S proteasome regulatory complex, ATPase RPT5" NIL)
+MEMBER	(G1IZ1-8995-MONOMER OTA_JGI "26S proteasome regulatory complex, ATPase RPT6" NIL)
+MEMBER	(G1IZ1-13984-MONOMER OTA_JGI "5'-3' exonuclease" NIL)
+MEMBER	(G1IZ1-7794-MONOMER OTA_JGI "Acting on acid anhydrides." NIL)
+MEMBER	(G1IZ1-13379-MONOMER OTA_JGI "Acting on acid anhydrides; involved in cellular and" NIL)
+MEMBER	(G1IZ1-11640-MONOMER OTA_JGI "Acting on ester bonds." NIL)
+MEMBER	(G1IZ1-8147-MONOMER OTA_JGI "Acting on ester bonds." NIL)
+MEMBER	(G1IZ1-11288-MONOMER OTA_JGI "Anaphase-promoting complex (APC), Cdc23 subunit" NIL)
+MEMBER	(G1IZ1-13033-MONOMER OTA_JGI "Anaphase-promoting complex (APC), subunit 10" NIL)
+MEMBER	(G1IZ1-14669-MONOMER OTA_JGI "Apoptosis antagonizing transcription factor/protein transport protein" NIL)
+MEMBER	(G1IZ1-10955-MONOMER OTA_JGI "ATP-dependent RNA helicase" NIL)
+MEMBER	(G1IZ1-10264-MONOMER OTA_JGI "ATP-dependent RNA helicase" NIL)
+MEMBER	(G1IZ1-9769-MONOMER OTA_JGI "ATP-dependent RNA helicase" NIL)
+MEMBER	(G1IZ1-14208-MONOMER OTA_JGI "CCR4-NOT transcriptional regulation complex, NOT5 subunit" NIL)
+MEMBER	(G1IZ1-12974-MONOMER OTA_JGI "cell cycle//chromosome, pericentric region//mitosis//nucleus" NIL)
+MEMBER	(G1IZ1-12657-MONOMER OTA_JGI "Cell membrane glycoprotein" NIL)
+MEMBER	(G1IZ1-13688-MONOMER OTA_JGI "Centromere/kinetochore protein zw10 involved in mitotic chromosome segregation" NIL)
+MEMBER	(G1IZ1-11402-MONOMER OTA_JGI "Chromatin remodeling complex RSC, subunit RSC1/Polybromo and related proteins" NIL)
+MEMBER	(G1IZ1-14046-MONOMER OTA_JGI "Chromatin remodeling complex WSTF-ISWI, small subunit" NIL)
+MEMBER	(G1IZ1-9540-MONOMER OTA_JGI "chromatin//chromatin assembly or disassembly//chromatin binding//nucleus" NIL)
+MEMBER	(G1IZ1-10929-MONOMER OTA_JGI "Chromodomain-helicase DNA-binding protein" NIL)
+MEMBER	(G1IZ1-8236-MONOMER OTA_JGI "Chromodomain-helicase DNA-binding protein" NIL)
+MEMBER	(G1IZ1-9252-MONOMER OTA_JGI "chromosome, pericentric region//meiotic chromosome segregation//nucleus" NIL)
+MEMBER	(G1IZ1-13966-MONOMER OTA_JGI "Component of the U4/U6.U5 snRNP/mitosis protein DIM1" NIL)
+MEMBER	(G1IZ1-15120-MONOMER OTA_JGI "Cyclin B and related kinase-activating proteins" NIL)
+MEMBER	(G1IZ1-8288-MONOMER OTA_JGI "Cyclin B and related kinase-activating proteins" NIL)
+MEMBER	(G1IZ1-11755-MONOMER OTA_JGI "Cyclin L" NIL)
+MEMBER	(G1IZ1-14163-MONOMER OTA_JGI "Damage-specific DNA binding complex, subunit DDB1" NIL)
+MEMBER	(G1IZ1-13079-MONOMER OTA_JGI "Damage-specific DNA binding complex, subunit DDB1" NIL)
+MEMBER	(G1IZ1-13973-MONOMER OTA_JGI "DNA binding//binding//nucleic acid binding//nucleus//zinc ion binding" NIL)
+MEMBER	(G1IZ1-9785-MONOMER OTA_JGI "DNA binding//binding//nucleus" NIL)
+MEMBER	(G1IZ1-15325-MONOMER OTA_JGI "DNA binding//chromatin//nucleus//regulation of transcription, DNA-dependent" NIL)
+MEMBER	(G1IZ1-8460-MONOMER OTA_JGI "DNA binding//DNA integration//nucleus//transposition, DNA-mediated" NIL)
+MEMBER	(G1IZ1-8461-MONOMER OTA_JGI "DNA binding//DNA integration//nucleus//transposition, DNA-mediated" NIL)
+MEMBER	(G1IZ1-8553-MONOMER OTA_JGI "DNA binding//DNA integration//nucleus//transposition, DNA-mediated" NIL)
+MEMBER	(G1IZ1-13951-MONOMER OTA_JGI "DNA binding//DNA-directed RNA polymerase activity//nucleus//transcription" NIL)
+MEMBER	(G1IZ1-15245-MONOMER OTA_JGI "DNA binding//nucleus" NIL)
+MEMBER	(G1IZ1-14427-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-13651-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-13305-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-11935-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-10674-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-9993-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-9102-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-9254-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-8136-MONOMER OTA_JGI "DNA binding//nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-13430-MONOMER OTA_JGI "DNA helicase TIP49, TBP-interacting protein" NIL)
+MEMBER	(G1IZ1-9970-MONOMER OTA_JGI "DNA helicase, TBP-interacting protein" NIL)
+MEMBER	(G1IZ1-12554-MONOMER OTA_JGI "DNA polymerase alpha-primase complex, polymerase-associated subunit B" NIL)
+MEMBER	(G1IZ1-13773-MONOMER OTA_JGI "DNA polymerase delta, regulatory subunit 55" NIL)
+MEMBER	(G1IZ1-12473-MONOMER OTA_JGI "DNA recombinational repair protein BRCA2" NIL)
+MEMBER	(G1IZ1-11033-MONOMER OTA_JGI "DNA repair exonuclease MRE11" NIL)
+MEMBER	(G1IZ1-12501-MONOMER OTA_JGI "DNA replication licensing factor, MCM2 component" NIL)
+MEMBER	(G1IZ1-8409-MONOMER OTA_JGI "DNA replication licensing factor, MCM3 component" NIL)
+MEMBER	(G1IZ1-13531-MONOMER OTA_JGI "DNA replication licensing factor, MCM4 component" NIL)
+MEMBER	(G1IZ1-12591-MONOMER OTA_JGI "DNA replication licensing factor, MCM4 component" NIL)
+MEMBER	(G1IZ1-9536-MONOMER OTA_JGI "DNA replication licensing factor, MCM5 component" NIL)
+MEMBER	(G1IZ1-7924-MONOMER OTA_JGI "DNA replication licensing factor, MCM6 component" NIL)
+MEMBER	(G1IZ1-8524-MONOMER OTA_JGI "DNA replication licensing factor, MCM7 component" NIL)
+MEMBER	(G1IZ1-11297-MONOMER OTA_JGI "DNA replication//nucleus" NIL)
+MEMBER	(G1IZ1-9878-MONOMER OTA_JGI "DNA-binding protein YL1 and related proteins" NIL)
+MEMBER	(G1IZ1-11872-MONOMER OTA_JGI "DNA-binding subunit of a DNA-dependent protein kinase (Ku70 autoantigen)" NIL)
+MEMBER	(G1IZ1-11516-MONOMER OTA_JGI "DNA-binding subunit of a DNA-dependent protein kinase (Ku80 autoantigen)" NIL)
+MEMBER	(G1IZ1-11887-MONOMER OTA_JGI "DNA-directed DNA polymerase." NIL)
+MEMBER	(G1IZ1-8480-MONOMER OTA_JGI "DNA-directed DNA polymerase." NIL)
+MEMBER	(G1IZ1-8009-MONOMER OTA_JGI "DNA-directed RNA polymerase III subunit" NIL)
+MEMBER	(G1IZ1-8547-MONOMER OTA_JGI "DNA-directed RNA polymerase." NIL)
+MEMBER	(G1IZ1-12879-MONOMER OTA_JGI "DNA-directed RNA polymerase." NIL)
+MEMBER	(G1IZ1-9467-MONOMER OTA_JGI "Endodeoxyribonucleases producing other than 5'-phosphomonoesters." NIL)
+MEMBER	(G1IZ1-12193-MONOMER OTA_JGI "Exodeoxyribonuclease III." NIL)
+MEMBER	(G1IZ1-14216-MONOMER OTA_JGI "Exon-exon junction complex, Magoh component" NIL)
+MEMBER	(G1IZ1-8493-MONOMER OTA_JGI "FOG: Ankyrin repeat" NIL)
+MEMBER	(G1IZ1-12034-MONOMER OTA_JGI "G10 protein/predicted nuclear transcription regulator" NIL)
+MEMBER	(G1IZ1-15091-MONOMER OTA_JGI "G2/Mitotic-specific cyclin A" NIL)
+MEMBER	(G1IZ1-8356-MONOMER OTA_JGI "G2/Mitotic-specific cyclin A" NIL)
+MEMBER	(G1IZ1-11102-MONOMER OTA_JGI "GATA-4/5/6 transcription factors" NIL)
+MEMBER	(G1IZ1-11380-MONOMER OTA_JGI "GATA-4/5/6 transcription factors" NIL)
+MEMBER	(G1IZ1-10271-MONOMER OTA_JGI "GATA-4/5/6 transcription factors" NIL)
+MEMBER	(G1IZ1-8990-MONOMER OTA_JGI "GATA-4/5/6 transcription factors" NIL)
+MEMBER	(G1IZ1-8659-MONOMER OTA_JGI "GATA-4/5/6 transcription factors" NIL)
+MEMBER	(G1IZ1-13970-MONOMER OTA_JGI "GTP-binding protein AARP2 involved in 40S ribosome biogenesis" NIL)
+MEMBER	(G1IZ1-13724-MONOMER OTA_JGI "HAT repeat protein" NIL)
+MEMBER	(G1IZ1-15244-MONOMER OTA_JGI "Heat shock transcription factor" NIL)
+MEMBER	(G1IZ1-14731-MONOMER OTA_JGI "Helicase of the DEAD superfamily" NIL)
+MEMBER	(G1IZ1-14207-MONOMER OTA_JGI "Helicase of the DEAD superfamily" NIL)
+MEMBER	(G1IZ1-11541-MONOMER OTA_JGI "Helicase of the DEAD superfamily" NIL)
+MEMBER	(G1IZ1-9561-MONOMER OTA_JGI "Helicase of the DEAD superfamily" NIL)
+MEMBER	(G1IZ1-14191-MONOMER OTA_JGI "Histone 2A" NIL)
+MEMBER	(G1IZ1-13854-MONOMER OTA_JGI "Histone 2A" NIL)
+MEMBER	(G1IZ1-11708-MONOMER OTA_JGI "Histone 2A" NIL)
+MEMBER	(G1IZ1-8353-MONOMER OTA_JGI "Histone 2A" NIL)
+MEMBER	(G1IZ1-12108-MONOMER OTA_JGI "Histone acetyltransferase." NIL)
+MEMBER	(G1IZ1-12323-MONOMER OTA_JGI "Histone acetyltransferase." NIL)
+MEMBER	(G1IZ1-9840-MONOMER OTA_JGI "Histone acetyltransferase." NIL)
+MEMBER	(G1IZ1-9731-MONOMER OTA_JGI "Histone chaperone involved in gene silencing" NIL)
+MEMBER	(G1IZ1-8483-MONOMER OTA_JGI "Histone deacetylase complex, catalytic component RPD3" NIL)
+MEMBER	(G1IZ1-8576-MONOMER OTA_JGI "Histone deacetylase complex, catalytic component RPD3" NIL)
+MEMBER	(G1IZ1-10247-MONOMER OTA_JGI "Histone deacetylase complex, SIN3 component" NIL)
+MEMBER	(G1IZ1-8069-MONOMER OTA_JGI "Histone deacetylase complex, SIN3 component" NIL)
+MEMBER	(G1IZ1-13855-MONOMER OTA_JGI "Histone H2B" NIL)
+MEMBER	(G1IZ1-11709-MONOMER OTA_JGI "Histone H2B" NIL)
+MEMBER	(G1IZ1-12542-MONOMER OTA_JGI "Histone H3 (Lys4) methyltransferase complex, subunit SET1 and related methyltransferases" NIL)
+MEMBER	(G1IZ1-11000-MONOMER OTA_JGI "Histone H3 (Lys4) methyltransferase complex, subunit SET1 and related methyltransferases" NIL)
+MEMBER	(G1IZ1-12633-MONOMER OTA_JGI "Histone H4" NIL)
+MEMBER	(G1IZ1-8306-MONOMER OTA_JGI "Histone H4" NIL)
+MEMBER	(G1IZ1-8307-MONOMER OTA_JGI "Histone H4" NIL)
+MEMBER	(G1IZ1-11433-MONOMER OTA_JGI "Histone transcription regulator HIRA, WD repeat superfamily" NIL)
+MEMBER	(G1IZ1-14980-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-14912-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-14641-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-14086-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-13579-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-13602-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-13190-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-12264-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-11641-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-10368-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-8989-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-9296-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-9375-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-9475-MONOMER OTA_JGI "Histone-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-12632-MONOMER OTA_JGI "Histones H3 and H4" NIL)
+MEMBER	(G1IZ1-11537-MONOMER OTA_JGI "Histones H3 and H4" NIL)
+MEMBER	(G1IZ1-10435-MONOMER OTA_JGI "Histones H3 and H4" NIL)
+MEMBER	(G1IZ1-8061-MONOMER OTA_JGI "Histones H3 and H4" NIL)
+MEMBER	(G1IZ1-11746-MONOMER OTA_JGI "Hydrolases." NIL)
+MEMBER	(G1IZ1-10818-MONOMER OTA_JGI "Hydrolases." NIL)
+MEMBER	(G1IZ1-9610-MONOMER OTA_JGI "IK cytokine down-regulator of HLA class II" NIL)
+MEMBER	(G1IZ1-12160-MONOMER OTA_JGI "In linear amides." NIL)
+MEMBER	(G1IZ1-12296-MONOMER OTA_JGI "Karyopherin (importin) alpha" NIL)
+MEMBER	(G1IZ1-8726-MONOMER OTA_JGI "Karyopherin (importin) beta 1" NIL)
+MEMBER	(G1IZ1-8191-MONOMER OTA_JGI "MADS box transcription factor" NIL)
+MEMBER	(G1IZ1-9989-MONOMER OTA_JGI "Meiotic  chromosome segregation protein" NIL)
+MEMBER	(G1IZ1-12690-MONOMER OTA_JGI "Meiotic cell division protein Pelota/DOM34" NIL)
+MEMBER	(G1IZ1-14145-MONOMER OTA_JGI "Methyltransferases." NIL)
+MEMBER	(G1IZ1-11151-MONOMER OTA_JGI "Methyltransferases." NIL)
+MEMBER	(G1IZ1-12952-MONOMER OTA_JGI "Mismatch repair ATPase MSH2 (MutS family)" NIL)
+MEMBER	(G1IZ1-13995-MONOMER OTA_JGI "MORC family ATPases" NIL)
+MEMBER	(G1IZ1-12530-MONOMER OTA_JGI "mRNA (2'-O-methyladenosine-N6-)-methyltransferase." NIL)
+MEMBER	(G1IZ1-11701-MONOMER OTA_JGI "mRNA cleavage and polyadenylation factor I complex, subunit RNA14" NIL)
+MEMBER	(G1IZ1-11074-MONOMER OTA_JGI "mRNA cleavage and polyadenylation factor II complex, subunit CFT1 (CPSF subunit)" NIL)
+MEMBER	(G1IZ1-8366-MONOMER OTA_JGI "mRNA deadenylase subunit" NIL)
+MEMBER	(G1IZ1-8452-MONOMER OTA_JGI "mRNA splicing factor/probable chromatin binding snw family nuclear protein" NIL)
+MEMBER	(G1IZ1-9466-MONOMER OTA_JGI "N-methyltransferase" NIL)
+MEMBER	(G1IZ1-11196-MONOMER OTA_JGI "negative regulation of transcription//nucleus" NIL)
+MEMBER	(G1IZ1-10389-MONOMER OTA_JGI "negative regulation of transcription//nucleus" NIL)
+MEMBER	(G1IZ1-8233-MONOMER OTA_JGI "Nuclear export receptor CSE1/CAS (importin beta superfamily)" NIL)
+MEMBER	(G1IZ1-13664-MONOMER OTA_JGI "Nuclear pore complex, Nup133 component (sc Nup133)" NIL)
+MEMBER	(G1IZ1-12955-MONOMER OTA_JGI "Nuclear pore complex, Nup155 component (D Nup154, sc Nup157/Nup170)" NIL)
+MEMBER	(G1IZ1-8035-MONOMER OTA_JGI "Nuclear pore complex, Nup98 component (sc Nup145/Nup100/Nup116)" NIL)
+MEMBER	(G1IZ1-8295-MONOMER OTA_JGI "Nuclear pore complex, rNup107 component (sc Nup84)" NIL)
+MEMBER	(G1IZ1-8382-MONOMER OTA_JGI "nuclear pore//structural constituent of nuclear pore" NIL)
+MEMBER	(G1IZ1-8665-MONOMER OTA_JGI "Nuclear transport receptor CRM1/MSN5 (importin beta superfamily)" NIL)
+MEMBER	(G1IZ1-13617-MONOMER OTA_JGI "Nuclear transport receptor Karyopherin-beta2/Transportin (importin beta superfamily)" NIL)
+MEMBER	(G1IZ1-14357-MONOMER OTA_JGI "Nuclear transport receptor RANBP7/RANBP8 (importin beta superfamily)" NIL)
+MEMBER	(G1IZ1-13132-MONOMER OTA_JGI "Nuclear-export-signal (NES)-containing protein/polyadenylated-RNA export factor" NIL)
+MEMBER	(G1IZ1-15180-MONOMER OTA_JGI "nucleic acid binding//nucleus" NIL)
+MEMBER	(G1IZ1-8370-MONOMER OTA_JGI "nucleic acid binding//nucleus" NIL)
+MEMBER	(G1IZ1-8530-MONOMER OTA_JGI "nucleic acid binding//nucleus" NIL)
+MEMBER	(G1IZ1-13213-MONOMER OTA_JGI "Nucleosome assembly protein NAP-1" NIL)
+MEMBER	(G1IZ1-13546-MONOMER OTA_JGI "Nucleosome-binding factor SPN, POB3 subunit" NIL)
+MEMBER	(G1IZ1-8847-MONOMER OTA_JGI "Nucleosome-binding factor SPN, POB3 subunit" NIL)
+MEMBER	(G1IZ1-12933-MONOMER OTA_JGI "Nucleotide excision repair factor NEF2, RAD23 component" NIL)
+MEMBER	(G1IZ1-12504-MONOMER OTA_JGI "Nucleotidyltransferases." NIL)
+MEMBER	(G1IZ1-11629-MONOMER OTA_JGI "Nucleotidyltransferases." NIL)
+MEMBER	(G1IZ1-14479-MONOMER OTA_JGI "nucleus" NIL)
+MEMBER	(G1IZ1-13764-MONOMER OTA_JGI "nucleus" NIL)
+MEMBER	(G1IZ1-12704-MONOMER OTA_JGI "nucleus" NIL)
+MEMBER	(G1IZ1-7861-MONOMER OTA_JGI "nucleus" NIL)
+MEMBER	(G1IZ1-8635-MONOMER OTA_JGI "nucleus//positive regulation of transcription//transcription coactivator activity" NIL)
+MEMBER	(G1IZ1-14499-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-14541-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-13230-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-11078-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-11473-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-10793-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-9638-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-9194-MONOMER OTA_JGI "nucleus//protein dimerization activity//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-13233-MONOMER OTA_JGI "nucleus//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-10448-MONOMER OTA_JGI "nucleus//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-8544-MONOMER OTA_JGI "nucleus//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-14294-MONOMER OTA_JGI "nucleus//regulation of transcription, DNA-dependent//sequence-specific DNA binding//transcription factor activity//zinc ion binding" NIL)
+MEMBER	(G1IZ1-13447-MONOMER OTA_JGI "nucleus//regulation of transcription, DNA-dependent//transcription factor activity" NIL)
+MEMBER	(G1IZ1-12664-MONOMER OTA_JGI "nucleus//regulation of transcription//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-11736-MONOMER OTA_JGI "nucleus//regulation of transcription//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-11475-MONOMER OTA_JGI "nucleus//regulation of transcription//sequence-specific DNA binding//transcription factor activity" NIL)
+MEMBER	(G1IZ1-13642-MONOMER OTA_JGI "nucleus//regulation of transcription//transcription regulator activity" NIL)
+MEMBER	(G1IZ1-8312-MONOMER OTA_JGI "nucleus//spliceosome assembly" NIL)
+MEMBER	(G1IZ1-14687-MONOMER OTA_JGI "Origin recognition complex, subunit 2" NIL)
+MEMBER	(G1IZ1-10139-MONOMER OTA_JGI "Peptidylprolyl isomerase." NIL)
+MEMBER	(G1IZ1-13578-MONOMER OTA_JGI "PHD Zn-finger protein" NIL)
+MEMBER	(G1IZ1-10839-MONOMER OTA_JGI "Phosphatidylinositol-4-phosphate 5-kinase" NIL)
+MEMBER	(G1IZ1-14560-MONOMER OTA_JGI "Polynucleotide adenylyltransferase." NIL)
+MEMBER	(G1IZ1-9596-MONOMER OTA_JGI "Pre-initiation complex, subunit CDC6, AAA+ superfamily ATPase" NIL)
+MEMBER	(G1IZ1-12613-MONOMER OTA_JGI "Predicted E3 ubiquitin ligase containing RING finger, subunit of transcription/repair factor TFIIH and CDK-activating kinase assembly factor" NIL)
+MEMBER	(G1IZ1-12061-MONOMER OTA_JGI "Predicted helicase" NIL)
+MEMBER	(G1IZ1-9673-MONOMER OTA_JGI "Predicted helicase" NIL)
+MEMBER	(G1IZ1-14388-MONOMER OTA_JGI "Predicted histone tail methylase containing SET domain" NIL)
+MEMBER	(G1IZ1-14622-MONOMER OTA_JGI "Predicted histone tail methylase containing SET domain" NIL)
+MEMBER	(G1IZ1-12466-MONOMER OTA_JGI "Predicted histone tail methylase containing SET domain" NIL)
+MEMBER	(G1IZ1-10651-MONOMER OTA_JGI "Predicted histone tail methylase containing SET domain" NIL)
+MEMBER	(G1IZ1-10436-MONOMER OTA_JGI "Predicted histone tail methylase containing SET domain" NIL)
+MEMBER	(G1IZ1-9937-MONOMER OTA_JGI "Predicted histone tail methylase containing SET domain" NIL)
+MEMBER	(G1IZ1-11625-MONOMER OTA_JGI "Predicted importin 9" NIL)
+MEMBER	(G1IZ1-10694-MONOMER OTA_JGI "Predicted N6-adenine RNA methylase" NIL)
+MEMBER	(G1IZ1-9122-MONOMER OTA_JGI "Predicted RNA-binding protein" NIL)
+MEMBER	(G1IZ1-10392-MONOMER OTA_JGI "Predicted telomere binding protein" NIL)
+MEMBER	(G1IZ1-10597-MONOMER OTA_JGI "Predicted transcriptional regulator" NIL)
+MEMBER	(G1IZ1-10879-MONOMER OTA_JGI "Predicted unusual protein kinase" NIL)
+MEMBER	(G1IZ1-15131-MONOMER OTA_JGI "Protein required for 18S rRNA maturation and 40S ribosome biogenesis" NIL)
+MEMBER	(G1IZ1-7758-MONOMER OTA_JGI "Protein required for 18S rRNA maturation and 40S ribosome biogenesis" NIL)
+MEMBER	(G1IZ1-8274-MONOMER OTA_JGI "Protein required for normal rRNA processing" NIL)
+MEMBER	(G1IZ1-13409-MONOMER OTA_JGI "Putative transcription factor ASH1/LIN-59" NIL)
+MEMBER	(G1IZ1-14558-MONOMER OTA_JGI "Regulator of ribosome synthesis" NIL)
+MEMBER	(G1IZ1-8436-MONOMER OTA_JGI "Regulator of spindle pole body duplication" NIL)
+MEMBER	(G1IZ1-8393-MONOMER OTA_JGI "Replication factor C, subunit RFC1 (large subunit)" NIL)
+MEMBER	(G1IZ1-14008-MONOMER OTA_JGI "Replication factor C, subunit RFC2" NIL)
+MEMBER	(G1IZ1-10066-MONOMER OTA_JGI "Replication factor C, subunit RFC3" NIL)
+MEMBER	(G1IZ1-12047-MONOMER OTA_JGI "Replication factor C, subunit RFC4" NIL)
+MEMBER	(G1IZ1-8398-MONOMER OTA_JGI "Replication factor C, subunit RFC5" NIL)
+MEMBER	(G1IZ1-9873-MONOMER OTA_JGI "Ribonuclease P." NIL)
+MEMBER	(G1IZ1-10476-MONOMER OTA_JGI "Ribosome biogenesis protein NIP7" NIL)
+MEMBER	(G1IZ1-7892-MONOMER OTA_JGI "RNA Polymerase C (III) 37 kDa subunit" NIL)
+MEMBER	(G1IZ1-14782-MONOMER OTA_JGI "RNA polymerase I transcription factor UAF" NIL)
+MEMBER	(G1IZ1-8489-MONOMER OTA_JGI "RNA polymerase II transcription initiation factor TFIIA, large chain" NIL)
+MEMBER	(G1IZ1-9306-MONOMER OTA_JGI "RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, 3'-5' helicase subunit SSL2" NIL)
+MEMBER	(G1IZ1-14052-MONOMER OTA_JGI "RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, 5'-3' helicase subunit RAD3" NIL)
+MEMBER	(G1IZ1-10778-MONOMER OTA_JGI "RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, subunit SSL1" NIL)
+MEMBER	(G1IZ1-8453-MONOMER OTA_JGI "RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, subunit TFB2" NIL)
+MEMBER	(G1IZ1-7879-MONOMER OTA_JGI "RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, subunit TFB4" NIL)
+MEMBER	(G1IZ1-8427-MONOMER OTA_JGI "RNA polymerase II, subunit POLR2C/RPB3" NIL)
+MEMBER	(G1IZ1-15085-MONOMER OTA_JGI "RNA polymerase III, subunit C34" NIL)
+MEMBER	(G1IZ1-9983-MONOMER OTA_JGI "RNA polymerase, 25-kDa subunit (common to polymerases I, II and III)" NIL)
+MEMBER	(G1IZ1-14991-MONOMER OTA_JGI "RNA-binding protein LARP/SRO9 and related La domain proteins" NIL)
+MEMBER	(G1IZ1-10854-MONOMER OTA_JGI "RNA-binding protein RBM8/Tsunagi (RRM superfamily)" NIL)
+MEMBER	(G1IZ1-9843-MONOMER OTA_JGI "RNA-directed DNA polymerase." NIL)
+MEMBER	(G1IZ1-12746-MONOMER OTA_JGI "rRNA processing protein Rrp5" NIL)
+MEMBER	(G1IZ1-9300-MONOMER OTA_JGI "Serine/threonine specific protein phosphatase." NIL)
+MEMBER	(G1IZ1-15107-MONOMER OTA_JGI "Single-stranded DNA-binding replication protein A (RPA), large (70 kD) subunit and related ssDNA-binding proteins" NIL)
+MEMBER	(G1IZ1-14503-MONOMER OTA_JGI "Single-stranded DNA-binding replication protein A (RPA), large (70 kD) subunit and related ssDNA-binding proteins" NIL)
+MEMBER	(G1IZ1-10861-MONOMER OTA_JGI "Sister chromatid cohesion complex Cohesin, subunit RAD21/SCC1" NIL)
+MEMBER	(G1IZ1-8065-MONOMER OTA_JGI "Sister chromatid cohesion complex Cohesin, subunit RAD21/SCC1" NIL)
+MEMBER	(G1IZ1-13746-MONOMER OTA_JGI "Splicing factor 3a, subunit 2" NIL)
+MEMBER	(G1IZ1-14346-MONOMER OTA_JGI "Splicing factor 3a, subunit 3" NIL)
+MEMBER	(G1IZ1-8714-MONOMER OTA_JGI "Splicing factor 3b, subunit 2" NIL)
+MEMBER	(G1IZ1-10771-MONOMER OTA_JGI "Splicing factor 3b, subunit 3" NIL)
+MEMBER	(G1IZ1-8918-MONOMER OTA_JGI "Splicing factor U2AF, large subunit (RRM superfamily)" NIL)
+MEMBER	(G1IZ1-9807-MONOMER OTA_JGI "SWI/SNF transcription activation complex subunit" NIL)
+MEMBER	(G1IZ1-13813-MONOMER OTA_JGI "TATA-box binding protein (TBP), component of TFIID and TFIIIB" NIL)
+MEMBER	(G1IZ1-14750-MONOMER OTA_JGI "Transcription factor MEIS1 and related HOX domain proteins" NIL)
+MEMBER	(G1IZ1-12333-MONOMER OTA_JGI "Transcription factor MEIS1 and related HOX domain proteins" NIL)
+MEMBER	(G1IZ1-9925-MONOMER OTA_JGI "Transcription factor MEIS1 and related HOX domain proteins" NIL)
+MEMBER	(G1IZ1-8447-MONOMER OTA_JGI "transcription factor TFIID complex//transcription initiation//transcription initiation factor activity" NIL)
+MEMBER	(G1IZ1-15140-MONOMER OTA_JGI "Transcription factor, contains HOX domain" NIL)
+MEMBER	(G1IZ1-8352-MONOMER OTA_JGI "Transcription initiation factor IIA, gamma subunit" NIL)
+MEMBER	(G1IZ1-8220-MONOMER OTA_JGI "Transcription initiation factor IIE, alpha subunit" NIL)
+MEMBER	(G1IZ1-9415-MONOMER OTA_JGI "Transcription initiation factor IIE, beta subunit" NIL)
+MEMBER	(G1IZ1-14875-MONOMER OTA_JGI "Transcription initiation factor IIF, auxiliary subunit" NIL)
+MEMBER	(G1IZ1-10442-MONOMER OTA_JGI "Transcription initiation factor IIF, large subunit (RAP74)" NIL)
+MEMBER	(G1IZ1-13635-MONOMER OTA_JGI "Transcription initiation factor IIF, small subunit (RAP30)" NIL)
+MEMBER	(G1IZ1-14405-MONOMER OTA_JGI "Transcription initiation factor TFIIB" NIL)
+MEMBER	(G1IZ1-7788-MONOMER OTA_JGI "Transcription initiation factor TFIID, subunit TAF10 (also component of histone acetyltransferase SAGA)" NIL)
+MEMBER	(G1IZ1-8848-MONOMER OTA_JGI "Transcription initiation factor TFIID, subunit TAF11" NIL)
+MEMBER	(G1IZ1-7968-MONOMER OTA_JGI "Transcription initiation factor TFIID, subunit TAF12 (also component of histone acetyltransferase SAGA)" NIL)
+MEMBER	(G1IZ1-12972-MONOMER OTA_JGI "Transcription initiation factor TFIID, subunit TAF5 (also component of histone acetyltransferase SAGA)" NIL)
+MEMBER	(G1IZ1-13155-MONOMER OTA_JGI "Transcription initiation factor TFIID, subunit TAF6 (also component of histone acetyltransferase SAGA)" NIL)
+MEMBER	(G1IZ1-14709-MONOMER OTA_JGI "Transcription initiation factor TFIID, subunit TAF9 (also component of histone acetyltransferase SAGA)" NIL)
+MEMBER	(G1IZ1-13269-MONOMER OTA_JGI "Transcription initiation factor TFIIIB, Brf1 subunit" NIL)
+MEMBER	(G1IZ1-10822-MONOMER OTA_JGI "Transcription initiation factor TFIIIB, Brf1 subunit" NIL)
+MEMBER	(G1IZ1-9155-MONOMER OTA_JGI "Transcriptional activator FOSB/c-Fos and related bZIP transcription factors" NIL)
+MEMBER	(G1IZ1-8060-MONOMER OTA_JGI "Transcriptional activator FOSB/c-Fos and related bZIP transcription factors" NIL)
+MEMBER	(G1IZ1-11817-MONOMER OTA_JGI "Transcriptional coactivator CAPER (RRM superfamily)" NIL)
+MEMBER	(G1IZ1-13987-MONOMER OTA_JGI "tRNA-intron endonuclease." NIL)
+MEMBER	(G1IZ1-11143-MONOMER OTA_JGI "tRNA-intron endonuclease." NIL)
+MEMBER	(G1IZ1-8571-MONOMER OTA_JGI "U1 snRNP-specific protein C" NIL)
+MEMBER	(G1IZ1-14205-MONOMER OTA_JGI "U2 snRNP splicing factor, small subunit, and related proteins" NIL)
+MEMBER	(G1IZ1-10198-MONOMER OTA_JGI "U3 small nucleolar ribonucleoprotein (snoRNP) subunit - Mpp10p" NIL)
+MEMBER	(G1IZ1-12431-MONOMER OTA_JGI "U5 snRNP spliceosome subunit" NIL)
+MEMBER	(G1IZ1-8194-MONOMER OTA_JGI "U5 snRNP-associated RNA splicing factor" NIL)
+MEMBER	(G1IZ1-9802-MONOMER OTA_JGI "Uncharacterized conserved coiled-coil protein" NIL)
+MEMBER	(G1IZ1-14881-MONOMER OTA_JGI "Uncharacterized conserved protein" NIL)
+MEMBER	(G1IZ1-12995-MONOMER OTA_JGI "Uncharacterized conserved protein" NIL)
+MEMBER	(G1IZ1-10161-MONOMER OTA_JGI "Uncharacterized conserved protein" NIL)
+MEMBER	(G1IZ1-11926-MONOMER OTA_JGI "Uncharacterized conserved protein" NIL)
+MEMBER	(G1IZ1-13844-MONOMER OTA_JGI "Uncharacterized conserved protein XAP-5" NIL)
+MEMBER	(G1IZ1-8386-MONOMER OTA_JGI "WD40 repeat nucleolar protein Bop1, involved in ribosome biogenesis" NIL)
+MEMBER	(G1IZ1-14465-MONOMER OTA_JGI "WD40 repeat protein" NIL)
+MEMBER	(G1IZ1-13320-MONOMER OTA_JGI "With 2-oxoglutarate as one donor, and incorporation of one" NIL)
+MEMBER	(G1IZ1-11633-MONOMER OTA_JGI "With 2-oxoglutarate as one donor, and incorporation of one" NIL)
+MEMBER	(G1IZ1-14455-MONOMER OTA_JGI "Xenobiotic-transporting ATPase." NIL)
+MEMBER	(G1IZ1-14964-MONOMER OTA_JGI "[Ribulose-bisphosphate-carboxylase]-lysine N-methyltransferase." NIL)
+MEMBER	(G1IZ1-14767-MONOMER OTA_JGI "[Ribulose-bisphosphate-carboxylase]-lysine N-methyltransferase." NIL)
+//
+ID	27
+NAME	TCA II (plant and fungii)
+PREV	26
+TIMESTAMP	3718494902
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+//
+ID	38
+NAME	Table 1-3-1-1
+TIMESTAMP	3722194800
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-6333 OTA "acetaldehyde biosynthesis I" NIL)
+MEMBER	(PWY-6144 OTA "CMP-<i>N</i>-glycoloylneuraminate biosynthesis" NIL)
+MEMBER	(PWY-66 OTA "GDP-L-fucose biosynthesis I (from GDP-D-mannose)" NIL)
+MEMBER	(PWY-6 OTA "GDP-L-fucose biosynthesis II (from L-fucose)" NIL)
+MEMBER	(PWY-5659 OTA "GDP-mannose biosynthesis" NIL)
+MEMBER	(GLUCONEO-PWY OTA "gluconeogenesis I" NIL)
+MEMBER	(GLYCOGENSYNTH-PWY OTA "glycogen biosynthesis I (from ADP-D-Glucose)" NIL)
+MEMBER	(MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS OTA "protein <i>N</i>-glycosylation (eukaryotic, high mannose)" NIL)
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+MEMBER	(SUCSYN-PWY OTA "sucrose biosynthesis I (from photosynthesis)" NIL)
+MEMBER	(PWY-7238 OTA "sucrose biosynthesis II" NIL)
+MEMBER	(PWY-7344 OTA "UDP-&alpha;-D-galactose biosynthesis" NIL)
+MEMBER	(PWY-4821 OTA "UDP-&alpha;-D-xylose biosynthesis" NIL)
+MEMBER	(PWY-3261 OTA "UDP-&beta;-L-rhamnose biosynthesis" NIL)
+MEMBER	(UDPNACETYLGALSYN-PWY OTA "UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II" NIL)
+//
+ID	101
+NAME	Super_pathway
+PREV	98
+TIMESTAMP	3736610536
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY1FV1-3 OTA_JGI "PPP_Gly_TCA" NIL)
+MEMBER	(PWY1FV1-3 OTA "PPP_Gly_TCA" NIL)
+MEMBER	(GLYCOLYSIS-TCA-GLYOX-BYPASS META "superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass" NIL)
+//
+ID	100
+NAME	Table 2-1
+TIMESTAMP	3735302714
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY1FV1-3 OTA_JGI "PPP_Gly_TCA" NIL)
+//
+ID	79
+NAME	>Table 1-5
+PREV	10
+TIMESTAMP	3728079340
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:RXN-SUBSTRATES
+COLUMN-KEY	GIBBS-0
+MEMBER	(FRUCTOSE-6P OTA "&beta;-D-fructofuranose 6-phosphate" NIL)
+MEMBER	(MAL OTA "(<i>S</i>)-malate" NIL)
+MEMBER	(2-KETOGLUTARATE OTA "2-oxoglutarate" NIL)
+MEMBER	(2-PG OTA "2-phospho-D-glycerate" NIL)
+MEMBER	(G3P OTA "3-phospho-D-glycerate" NIL)
+MEMBER	(DPG OTA "3-phospho-D-glyceroyl-phosphate" NIL)
+MEMBER	(D-6-P-GLUCONO-DELTA-LACTONE OTA "6-phospho D-glucono-1,5-lactone" NIL)
+MEMBER	(CIS-ACONITATE OTA "<i>cis</i>-aconitate" NIL)
+MEMBER	(GLYCEROL-3P OTA "<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(DIACYLGLYCEROL OTA "a 1,2-diacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(L-PHOSPHATIDATE OTA "a 1,2-diacyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(|2-Lysophosphatidylcholines| OTA "a 1-acyl-<i>sn</i>-glycero-3-phosphocholine" NIL)
+MEMBER	(ACYL-SN-GLYCEROL-3P OTA "a 1-acyl-<i>sn</i>-glycerol 3-phosphate" NIL)
+MEMBER	(CPD-409 OTA "a 2-acylglycerol" NIL)
+MEMBER	(|Long-Chain-Acyl-CoAs| OTA "a long-chain acyl-CoA" NIL)
+MEMBER	(PHOSPHATIDYLCHOLINE OTA "a phosphatidylcholine" NIL)
+MEMBER	(|Plastoquinols| OTA "a plastoquinol" NIL)
+MEMBER	(PLASTOQUINONE OTA "a plastoquinone" NIL)
+MEMBER	(|Reduced-ferredoxins| OTA "a reduced ferredoxin [iron-sulfur] cluster" NIL)
+MEMBER	(|Plastocyanin-Reduced| OTA "a reduced plastocyanin" NIL)
+MEMBER	(|Triacylglycerols| OTA "a triacyl-<i>sn</i>-glycerol" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-acetylDHlipoyl| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-<i>S</i>-acetyldihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-dihydrolipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-dihydrolipoyl-L-lysine" NIL)
+MEMBER	(|Pyruvate-dehydrogenase-lipoate| OTA "a [pyruvate dehydrogenase E2 protein] <i>N<sup>6</sup></i>-lipoyl-L-lysine" NIL)
+MEMBER	(ACETYL-COA OTA "acetyl-CoA" NIL)
+MEMBER	(ADP OTA "ADP" NIL)
+MEMBER	(AMP OTA "AMP" NIL)
+MEMBER	(ACYL-COA OTA "an acyl-CoA" NIL)
+MEMBER	(|ETR-Quinols| OTA "an electron-transfer quinol" NIL)
+MEMBER	(|ETR-Quinones| OTA "an electron-transfer quinone" NIL)
+MEMBER	(|Oxidized-ferredoxins| OTA "an oxidized ferredoxin [iron-sulfur] cluster" NIL)
+MEMBER	(|Oxidized-Plastocyanins| OTA "an oxidized plastocyanin" NIL)
+MEMBER	(ATP OTA "ATP" NIL)
+MEMBER	(CDP OTA "CDP" NIL)
+MEMBER	(CIT OTA "citrate" NIL)
+MEMBER	(CARBON-DIOXIDE OTA "CO<SUB>2</SUB>" NIL)
+MEMBER	(CO-A OTA "coenzyme A" NIL)
+MEMBER	(CTP OTA "CTP" NIL)
+MEMBER	(THREO-DS-ISO-CITRATE OTA "D-<i>threo</i>-isocitrate" NIL)
+MEMBER	(ERYTHROSE-4P OTA "D-erythrose 4-phosphate" NIL)
+MEMBER	(CPD-2961 OTA "D-gluconate 6-phosphate" NIL)
+MEMBER	(|D-glucopyranose-6-phosphate| OTA "D-glucopyranose 6-phosphate" NIL)
+MEMBER	(GAP OTA "D-glyceraldehyde 3-phosphate" NIL)
+MEMBER	(RIBOSE-5P OTA "D-ribose 5-phosphate" NIL)
+MEMBER	(RIBULOSE-5P OTA "D-ribulose 5-phosphate" NIL)
+MEMBER	(D-RIBULOSE-15-P2 OTA "D-ribulose-1,5-bisphosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-7-P OTA "D-sedoheptulose 7-phosphate" NIL)
+MEMBER	(D-SEDOHEPTULOSE-1-7-P2 OTA "D-sedoheptulose-1,7-bisphosphate" NIL)
+MEMBER	(XYLULOSE-5-PHOSPHATE OTA "D-xylulose 5-phosphate" NIL)
+MEMBER	(FRUCTOSE-16-DIPHOSPHATE OTA "fructose 1,6-bisphosphate" NIL)
+MEMBER	(FUM OTA "fumarate" NIL)
+MEMBER	(DIHYDROXY-ACETONE-PHOSPHATE OTA "glycerone phosphate" NIL)
+MEMBER	(|Light| OTA "h&nu;" NIL)
+MEMBER	(WATER OTA "H<sub>2</sub>O" NIL)
+MEMBER	(PROTON OTA "H<SUP>+</SUP>" NIL)
+MEMBER	(NAD OTA "NAD<sup>+</sup>" NIL)
+MEMBER	(NADH OTA "NADH" NIL)
+MEMBER	(NADP OTA "NADP<sup>+</sup>" NIL)
+MEMBER	(NADPH OTA "NADPH" NIL)
+MEMBER	(OXALACETIC_ACID OTA "oxaloacetate" NIL)
+MEMBER	(OXYGEN-MOLECULE OTA "oxygen" NIL)
+MEMBER	(|Pi| OTA "phosphate" NIL)
+MEMBER	(PHOSPHO-ENOL-PYRUVATE OTA "phospho<i>enol</i>pyruvate" NIL)
+MEMBER	(PYRUVATE OTA "pyruvate" NIL)
+MEMBER	(SUC OTA "succinate" NIL)
+MEMBER	(SUC-COA OTA "succinyl-CoA" NIL)
+//
+ID	34
+NAME	Table 2-1-1-1-1
+TIMESTAMP	3722176238
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+//
+ID	33
+NAME	>Table 1-5-1
+PREV	32
+TIMESTAMP	3718499755
+DESCRIPTION	
+PROTECT	NIL
+TRANSFORM-KEY	:RXN-PWYS
+MEMBER	(PWY-7115 OTA "C4 photosynthetic carbon assimilation cycle, NAD-ME type" NIL)
+MEMBER	(CALVIN-PWY OTA "Calvin-Benson-Bassham cycle" NIL)
+MEMBER	(TRIGLSYN-PWY OTA "diacylglycerol and triacylglycerol biosynthesis" NIL)
+MEMBER	(PWY-5659 OTA "GDP-mannose biosynthesis" NIL)
+MEMBER	(GLUCONEO-PWY OTA "gluconeogenesis I" NIL)
+MEMBER	(PWY-6118 OTA "glycerol-3-phosphate shuttle" NIL)
+MEMBER	(NIL NIL "glycolysis I (from glucose 6-phosphate)" NIL)
+MEMBER	(NONOXIPENT-PWY OTA "pentose phosphate pathway (non-oxidative branch)" NIL)
+MEMBER	(OXIDATIVEPENT-PWY OTA "pentose phosphate pathway (oxidative branch) I" NIL)
+MEMBER	(PWY-7411 OTA "phosphatidate biosynthesis (yeast)" NIL)
+MEMBER	(PWY-7416 OTA "phospholipid remodeling (phosphatidylcholine, yeast)" NIL)
+MEMBER	(PWY-101 OTA "photosynthesis light reactions" NIL)
+MEMBER	(PYRUVDEHYD-PWY OTA "pyruvate decarboxylation to acetyl CoA" NIL)
+MEMBER	(PWY-5723 OTA "Rubisco shunt" NIL)
+MEMBER	(PWY-622 OTA "starch biosynthesis" NIL)
+MEMBER	(SUCSYN-PWY OTA "sucrose biosynthesis I (from photosynthesis)" NIL)
+MEMBER	(PWY-7238 OTA "sucrose biosynthesis II" NIL)
+MEMBER	(PWY-5690 OTA "TCA cycle II (plants and fungi)" NIL)
+MEMBER	(P105-PWY OTA "TCA cycle IV (2-oxoglutarate decarboxylase)" NIL)
+//
+ID	43
+NAME	Table 1-4
+TIMESTAMP	3723576378
+DESCRIPTION	
+PROTECT	NIL
+MEMBER	(NIL NIL "<i>cis</i>-aconitate<sub>[cytosol]</sub>  &rarr;  citrate<sub>[mitochondrial lumen]</sub>" NIL)
+//
